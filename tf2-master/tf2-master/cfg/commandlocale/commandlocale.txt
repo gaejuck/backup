@@ -1,0 +1,111 @@
+"commandlocale"
+{
+	"sm_sc"
+	{
+		"ko"	"!노래"
+	}
+	"sm_sc"
+	{
+		"ko"	"/노래"
+	}
+	
+	"sm_sclist"
+	{
+		"ko"	"!노래목록"
+	}
+	"sm_sclist"
+	{
+		"ko"	"/노래목록"
+	}
+	
+	"sm_scstop"
+	{
+		"ko"	"!스탑"
+	}
+	"sm_scstop"
+	{
+		"ko"	"/스탑"
+	}
+	
+	"sm_scvol"
+	{
+		"ko"	"!볼륨"
+	}
+	"sm_scvol"
+	{
+		"ko"	"/볼륨"
+	}
+	
+	"sm_scopen"
+	{
+		"ko"	"!제목"
+	}
+	"sm_scopen"
+	{
+		"ko"	"/제목"
+	}
+	
+	"sm_schelp"
+	{
+		"ko"	"!노래도움말"
+	}
+	"sm_schelp"
+	{
+		"ko"	"/노래도움말"
+	}
+	
+	"sm_scall"
+	{
+		"ko"	"!올노래"
+	}
+	"sm_scall"
+	{
+		"ko"	"/올노래"
+	}
+	
+	"sm_item"
+	{
+		"ko"	"!아이템"
+	}
+	"sm_item"
+	{
+		"ko"	"/아이템"
+	}
+	
+	"sm_unusual"
+	{
+		"ko"	"!언유"
+	}
+	"sm_unusual"
+	{
+		"ko"	"/언유"
+	}
+	
+	"sm_paint"
+	{
+		"ko"	"!페인트"
+	}
+	"sm_paint"
+	{
+		"ko"	"/페인트"
+	}
+	
+	"sm_reset"
+	{
+		"ko"	"!초기화"
+	}
+	"sm_reset"
+	{
+		"ko"	"/초기화"
+	}
+	
+	"sm_random"
+	{
+		"ko"	"!랜덤"
+	}
+	"sm_random"
+	{
+		"ko"	"/랜덤"
+	}
+	
+}

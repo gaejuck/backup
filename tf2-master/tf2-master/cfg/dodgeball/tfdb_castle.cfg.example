@@ -1,0 +1,33 @@
+"tf2_dodgeball"
+{   
+    "spawners"
+    {
+        // In this example file, we can see how we can override the attributes of the spawners. For example, let's
+        // make it so on tfdb_castle, the red spawner can only spawn common rockets, and the blu spawn only nukes.
+        // The plugin will look for the last defined red and blu spawners as the default ones.
+        
+        // >>> Default RED spawner <<<
+        "red"
+        {
+            // >>> Basic parameters <<<
+            "max rockets"            "1"                // Max no. of rockets before the spawner can fire another.
+            "interval"               "2.0"              // Minimum time between rocket fires.
+            
+            // >>> Chances table <<<
+            "common%"                "100"              // Chance to spawn a common rocket
+            "nuke%"                  "0"                // Chance to spawn a nuke rocket
+        }
+        
+        // >>> Default BLU spawner <<<
+        "blu"
+        {
+            // >>> Basic parameters <<<
+            "max rockets"            "1"               // Max no. of rockets before the spawner can fire another.
+            "interval"               "2.0"             // Minimum time between rocket fires.
+            
+            // >>> Chances table <<<
+            "common%"                "0"               // Chance to spawn a common rocket
+            "nuke%"                  "100"             // Chance to spawn a nuke rocket
+        }
+    }
+}

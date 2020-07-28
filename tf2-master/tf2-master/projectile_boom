@@ -1,0 +1,143 @@
+#include <sourcemod>
+#include <sdktools>
+#include <sdkhooks>
+#include <smlib/general>
+
+new Handle:CvarBoom = INVALID_HANDLE;
+new String:boooooom[255];
+
+new bool:pb[MAXPLAYERS+1] = false;
+
+public Plugin:myinfo =
+{
+	name = "projectile boom",
+	author = "ㅣ",
+	description = "발사체 폭파 후 이펙트랄까나..",
+	version = "1.3",
+	url = "http://steamcommunity.com/id/ssssssssaaaaaaazzzzzxxc"
+}
+
+public OnPluginStart()
+{
+	CvarBoom = CreateConVar("sm_projectile_boom", "tank_destruction", "발사체 폭파후 이펙트");
+	GetConVarString(CvarBoom, boooooom, sizeof(boooooom));
+	HookConVarChange(CvarBoom, ConVarChanged);
+	
+	RegAdminCmd("sm_pb", command, 0);
+}
+
+public OnClientDisconnected(client)
+	if(pb[client] == true)
+		pb[client] = false;
+
+public Action:command(client, args)
+{
+	if(AliveCheck(client))
+	{
+		if(pb[client] == false)
+		{
+			pb[client] = true;
+			PrintToChat(client, "\x03적용 완료");
+		}
+		else
+		{
+			pb[client] = false;
+			PrintToChat(client, "\x03적용 해제");
+		}
+	}
+	return Plugin_Handled;
+}
+
+public ConVarChanged(Handle:cvar, const String:oldVal[], const String:newVal[])
+{
+	PrecacheParticleSystem(boooooom);
+	GetConVarString(cvar, boooooom, sizeof(boooooom));
+}
+
+public OnEntityDestroyed(entity)
+{
+	if (IsValidEntity(entity))
+	{
+		new String:classname[32];
+		new owner = GetEntPropEnt(entity,Prop_Data,"m_hOwnerEntity");
+			 
+		if(IsAClient(owner)&&pb[owner] == true)
+		{
+			GetEntPropString(entity,Prop_Data,"m_iClassname",classname,sizeof(classname))
+			if(StrContains(classname, "tf_projectile") != -1)
+			{
+				CreateParticle(boooooom, entity, 3.0, 0);
+			}
+		}
+	}
+}
+
+stock Handle:CreateParticle(String:type[], entity, Float:time, attach=0, Float:xOffs=0.0, Float:yOffs=0.0, Float:zOffs=0.0)
+{
+    new pc = CreateEntityByName("info_particle_system");
+    
+    if (IsValidEdict(pc)) {
+        decl Float:pos[3];
+        GetEntPropVector(entity, Prop_Send, "m_vecOrigin", pos);
+        pos[0] += xOffs;
+        pos[1] += yOffs;
+        pos[2] += zOffs;
+        TeleportEntity(pc, pos, NULL_VECTOR, NULL_VECTOR);
+        DispatchKeyValue(pc, "effect_name", type);
+
+        if (attach != 0) {
+            SetVariantString("!activator");
+            AcceptEntityInput(pc, "SetParent", entity, pc, 0);
+        
+            if (attach == 2) {
+                SetVariantString("head");
+                AcceptEntityInput(pc, "SetParentAttachmentMaintainOffset", pc, pc, 0);
+            }
+        }
+        DispatchKeyValue(pc, "targetname", "present");
+        DispatchSpawn(pc);
+        ActivateEntity(pc);
+        AcceptEntityInput(pc, "Start");
+        return CreateTimer(time, DeleteParticle, pc);
+    } else {
+        LogError("Presents (CreateParticle): Could not create info_particle_system");
+    }
+    
+    return INVALID_HANDLE;
+}
+
+public Action:DeleteParticle(Handle:timer, any:particle)
+{
+    if (IsValidEdict(particle)) {
+        new String:classname[64];
+        GetEdictClassname(particle, classname, sizeof(classname));
+        
+        if (StrEqual(classname, "info_particle_system", false)) {
+            RemoveEdict(particle);
+        }
+    }
+}  
+
+IsAClient(index)
+{
+	if (1<=index<=MaxClients&&IsClientInGame(index))
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+
+public bool:AliveCheck(client)
+{
+	if(client > 0 && client <= MaxClients)
+		if(IsClientConnected(client) == true)
+			if(IsClientInGame(client) == true)
+				if(IsPlayerAlive(client) == true) return true;
+				else return false;
+			else return false;
+		else return false;
+	else return false;
+}

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trails/Pikachu"
+	"$texture2" "trails/Pikachu"
+
+	"$additive" 0
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

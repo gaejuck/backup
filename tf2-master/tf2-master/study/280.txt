@@ -1,0 +1,39 @@
+1 - Bullet
+ 2 - Rocket
+ 3 - Pipebomb
+ 4 - Stickybomb (Stickybomb Launcher)
+ 5 - Syringe
+ 6 - Flare
+ 8 - Huntsman Arrow
+ 11 - Crusader's Crossbow Bolt
+ 12 - Cow Mangler Particle
+ 13 - Righteous Bison Particle
+ 14 - Stickybomb (Sticky Jumper)
+ 17 - Loose Cannon
+ 18 - Rescue Ranger Claw
+ 19 - Festive Huntsman Arrow
+ 22 - Festive Jarate
+ 23 - Festive Crusader's Crossbow Bolt
+ 24 - Self Aware Beuty Mark
+ 25 - Mutated Milk
+ 26 - Grappling Hook
+
+
+228 ; 고유번호 하면 누구님이 제작
+
+   TFProjType_Bullet = 1, 
+    TFProjType_Rocket 
+    TFProjType_Pipebomb 
+    TFProjType_Stickybomb, 
+    TFProjType_Syringe, =
+    TFProjType_Flare, = 
+    TFProjType_Arrow = 8,              
+    TFProjType_Arrow2 = 11,             
+    TFProjType_CowManglerParticle,
+    TFProjType_RighteousBisonParticle,
+    TFProjType_StickyJumperBomb,
+    TFProjType_RescueRanger = 18,       //  tf_projectile_healing_bolt... I think?
+    TFProjType_GrappleHook = 26         //  Used by tf_weapon_grapplinghook
+	
+17: cannonball
+19: festive arrow

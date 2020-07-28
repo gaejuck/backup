@@ -1,0 +1,169 @@
+#include <tf2attributes>
+#include <tf2_stocks>
+#include <tf2>
+#include <sdkhooks>
+#include <tf2items>
+
+public OnPluginStart()
+{
+	HookEvent("player_spawn", PlayerSpawn);
+	HookEvent("post_inventory_application", OnPlayerInventory, EventHookMode_Post);
+	RegConsoleCmd("sm_ag", aaaa);
+}
+
+public OnClientPutInServer(client)
+	if(!IsFakeClient(client)) 
+		SDKHook(client, SDKHook_OnTakeDamage, OnTakeDamage);
+		
+public OnClientDisconnect(client)
+	if(!IsFakeClient(client)) 
+		SDKUnhook(client, SDKHook_OnTakeDamage, OnTakeDamage);
+		
+public Action:aaaa(client, args)
+{
+	for(new i = 1; i <= MaxClients; i++)
+	{
+		if(IsClientInGame(i))
+		{
+			SDKHook(i, SDKHook_OnTakeDamage, OnTakeDamage);
+		}
+	}
+	PrintToChat(client, "리로드 완료");
+	return Plugin_Handled;
+}
+
+#define DAMAGE 50.0;
+#define HDAMAGE 35.0;
+
+public Action:OnTakeDamage(attacker, &client, &inflictor, &Float:fDamage, &damagetype, &iWeapon, Float:fForce[3], Float:fForcePos[3])
+{
+	if(damagetype & DMG_FALL) return Plugin_Handled;
+	if (AliveCheck(attacker) && AliveCheck(client))
+	{
+		if(client == attacker)
+		{
+			TF2_AddCondition(attacker, TFCond:14, 0.001);
+			
+			new TFClassType:class = TF2_GetPlayerClass(client);
+			switch (class)
+			{
+				// case TFClass_Scout: fDamage = DAMAGE
+				case TFClass_Pyro: fDamage = DAMAGE
+				// case TFClass_Heavy: fDamage = HDAMAGE
+				case TFClass_Engineer: fDamage = DAMAGE
+				case TFClass_Medic: fDamage = DAMAGE
+				case TFClass_Sniper: fDamage = DAMAGE
+				case TFClass_Spy: fDamage = DAMAGE 
+			}
+			return Plugin_Changed;
+			
+		}
+		
+		decl String:szClassName[64];
+		GetEntityClassname(inflictor, szClassName, sizeof(szClassName));
+		if(StrEqual(szClassName, "tf_projectile_rocket"))
+		{
+			fDamage = 90.0; 
+			return Plugin_Changed;
+		}
+	}
+	return Plugin_Continue; 
+}
+
+public Action:PlayerSpawn(Handle:event, const String:name[], bool:dontBroadcast)
+{
+	new client = GetClientOfUserId(GetEventInt(event, "userid"));
+	
+	if(TF2_GetPlayerClass(client) == TFClassType:TFClass_Scout)
+	{	
+		TF2_SetPlayerClass(client, TFClass_Pyro);
+		TF2_RegeneratePlayer(client);
+		PrintToChat(client, "스카웃은 클래스는 사용할 수 없습니다.");
+	}
+	
+	if(TF2_GetPlayerClass(client) == TFClassType:TFClass_DemoMan)
+	{	
+		TF2_SetPlayerClass(client, TFClass_Pyro);
+		TF2_RegeneratePlayer(client);
+		PrintToChat(client, "데모맨 클래스는 사용할 수 없습니다.");
+	}
+	
+	if(TF2_GetPlayerClass(client) == TFClassType:TFClass_Heavy)
+	{	
+		TF2_SetPlayerClass(client, TFClass_Pyro);
+		TF2_RegeneratePlayer(client);
+		PrintToChat(client, "헤비 클래스는 사용할 수 없습니다.");
+	}
+}
+
+public Action:OnPlayerInventory(Handle:hEvent, String:strEventName[], bool:bDontBroadcast)
+{
+	new iClient = GetClientOfUserId(GetEventInt(hEvent, "userid"));
+	if (!PlayerCheck2(iClient)) return;
+    
+	if(TF2_GetPlayerClass(iClient) == TFClassType:TFClass_Engineer)
+	{
+		new one = GetPlayerWeaponSlot(iClient, 3);
+		if (one != -1) RemoveEdict(one);
+		
+		new two = GetPlayerWeaponSlot(iClient, 4);
+		if (two != -1) RemoveEdict(two);
+	}
+	
+	if(TF2_GetPlayerClass(iClient) == TFClassType:TFClass_Medic)
+	{
+		new one = GetPlayerWeaponSlot(iClient, 1);
+		if (one != -1) RemoveEdict(one);
+	}
+	
+	TF2Attrib_SetByDefIndex(iClient, 280, 2.0);
+	TF2Attrib_SetByDefIndex(iClient, 100, 0.1);
+}
+
+public Action:TF2Items_OnGiveNamedItem(client, String:classname[], index, &Handle:hItem)
+{
+	if (StrEqual(classname, "tf_wearable"))
+		return Plugin_Continue;  
+	
+	if(StrEqual(classname, "tf_weapon_pistol") || StrEqual(classname, "tf_weapon_smg") || StrEqual(classname, "tf_weapon_flamethrower")
+		|| StrEqual(classname, "tf_weapon_mechanical_arm") || StrEqual(classname, "tf_weapon_syringegun_medic") || StrEqual(classname, "tf_weapon_charged_smg")
+		 || StrEqual(classname, "tf_weapon_rocketlauncher_directhit"))
+		return Plugin_Handled;
+	if(index == 1153 || index == 730) return Plugin_Handled;
+	
+	return Plugin_Continue;
+}
+
+public bool:AliveCheck(client)
+{
+	if(client > 0 && client <= MaxClients)
+		if(IsClientConnected(client))
+			if(IsClientInGame(client))
+				if(IsPlayerAlive(client)) return true;
+				else return false;
+			else return false;
+		else return false;
+	else return false;
+}
+
+stock bool:PlayerCheck2(Client){
+	if(Client > 0 && Client <= MaxClients){
+		if(IsClientConnected(Client) == true){
+			if(IsClientInGame(Client) == true){
+				return true;
+			}
+		}
+	}
+	return false;
+}
+
+
+stock bool:ChangePlayerWeaponSlot(iClient, iSlot) {
+    new iWeapon = GetPlayerWeaponSlot(iClient, iSlot);
+    if (iWeapon > MaxClients) {
+        SetEntPropEnt(iClient, Prop_Send, "m_hActiveWeapon", iWeapon);
+        return true;
+    }
+
+    return false;
+}

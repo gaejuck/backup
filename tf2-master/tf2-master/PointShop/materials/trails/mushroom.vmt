@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "trails/Mushroom"
+	
+	"$additive" 0
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

@@ -1,0 +1,1278 @@
+"propcommon"
+{
+	"models/alpine_logs/set1/log_27_211.md"
+	{
+		"name"		"Medium Alphine Log"
+	}
+
+	"models/egypt/palm_tree/palm_tree.mdl"
+	{
+		"name"		"Palm Tree"
+	}
+
+	"models/egypt/palm_tree/palm_tree_big.mdl"
+	{
+		"name"		"야자수 (대)"
+	}
+
+	"models/egypt/pillar/pillar.mdl"
+	{
+		"name"		"기둥"
+	}
+
+	"models/egypt/pillar/pillar_big.mdl"
+	{
+		"name"		"기둥 (대)"
+	}
+
+	"models/egypt/pillar/pillar_medium.mdl"
+	{
+		"name"		"기둥 (중)"
+	}
+
+	"models/egypt/stick_torch/stick_torch_big.mdl"
+	{
+		"name"		"횃불 (상)"
+	}
+
+	"models/egypt/stick_torch/stick_torch_medium.mdl"
+	{
+		"name"		"횃불 (중)"
+	}
+
+	"models/egypt/tent/tent.mdl"
+	{
+		"name"		"텐트"
+	}
+
+	"models/harvest/pumpkin/pumpkin_small.mdl"
+	{
+		"name"		"호박 (소)"
+	}
+
+	"models/harvest/pumpkin/pumpkin_big.mdl"
+	{
+		"name"		"호박 (대)"
+	}
+
+	"models/harvest/tree/tree_big.mdl"
+	{
+		"name"		"나무 (대)"
+	}
+
+	"models/harvest/tree/tree_medium.mdl"
+	{
+		"name"		"나무 (중)"
+	}
+
+	"models/harvest/tree/tree_small.mdl"
+	{
+		"name"		"나무 (소)"
+	}
+
+	"models/lilchewchew/lilchewchew_v3.mdl"
+	{
+		"name"		"Lil' Chew-Chew"
+	}
+
+	"models/player/pyro.mdl"
+	{
+		"name"		"파이로"
+	}
+
+	"models/props_2fort/coffeepot.mdl"
+	{
+		"name"		"커피 포트"
+	}
+
+	"models/props_2fort/corrugated_metal001.mdl"
+	{
+		"name"		"Corrugated Metal #1"
+	}
+
+	"models/props_2fort/corrugated_metal002.mdl"
+	{
+		"name"		"Corrugated Metal #2"
+	}
+
+	"models/props_2fort/corrugated_metal003.mdl"
+	{
+		"name"		"Corrugated Metal #3"
+	}
+
+	"models/props_2fort/corrugated_metal004.mdl"
+	{
+		"name"		"Corrugated Metal #4"
+	}
+
+	"models/props_2fort/corrugated_metal005.mdl"
+	{
+		"name"		"Corrugated Metal #5"
+	}
+
+	"models/props_2fort/corrugated_metal006.mdl"
+	{
+		"name"		"Corrugated Metal #6"
+	}
+
+	"models/props_2fort/corrugated_metal007.mdl"
+	{
+		"name"		"Corrugated Metal #7"
+	}
+
+	"models/props_2fort/cow001_reference.mdl"
+	{
+		"name"		"소"
+	}
+
+	"models/props_2fort/chimney001.mdl"
+	{
+		"name"		"굴뚝 #1"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney002.mdl"
+	{
+		"name"		"굴뚝 #2"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney003.mdl"
+	{
+		"name"		"굴뚝 #3"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney004.mdl"
+	{
+		"name"		"굴뚝 #4"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney005.mdl"
+	{
+		"name"		"굴뚝 #5"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney006.mdl"
+	{
+		"name"		"굴뚝 #6"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/chimney007.mdl"
+	{
+		"name"		"굴뚝 #7"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_2fort/frog.mdl"
+	{
+		"name"		"개구리"
+	}
+
+	"models/props_2fort/hardhat001.mdl"
+	{
+		"name"		"파란 모자"
+	}
+
+	"models/props_2fort/ladder001.mdl"
+	{
+		"name"		"사다리"
+	}
+
+	"models/props_2fort/locker001.mdl"
+	{
+		"name"		"라커"
+	}
+
+	"models/props_2fort/lunchbag.mdl"
+	{
+		"name"		"Lunch Bag"
+	}
+
+	"models/props_2fort/metalbucket001.mdl"
+	{
+		"name"		"양동이"
+	}
+
+	"models/props_2fort/milkjug001.mdl"
+	{
+		"name"		"우유통"
+	}
+
+	"models/props_2fort/miningcrate001.mdl"
+	{
+		"name"		"나무 상자"
+	}
+
+	"models/props_2fort/miningcrate002.mdl"
+	{
+		"name"		"나무 상자 #2"
+	}
+
+	"models/props_2fort/mop_and_bucket.mdl"
+	{
+		"name"		"걸레와 양동이"
+	}
+
+	"models/props_2fort/oildrum.mdl"
+	{
+		"name"		"오일 드럼"
+	}
+
+	"models/props_2fort/propane_tank_tall01.mdl"
+	{
+		"name"		"가스통"
+	}
+
+	"models/props_2fort/sink001.mdl"
+	{
+		"name"		"싱크대"
+	}
+
+	"models/props_2fort/tank002.mdl"
+	{
+		"name"		"액체 저장 탱크"
+	}
+
+	"models/props_2fort/telephone001.mdl"
+	{
+		"name"		"전화기"
+	}
+	
+	"models/props_2fort/thermos.mdl"
+	{
+		"name"		"보온병"
+	}
+
+	"models/props_2fort/tire001.mdl"
+	{
+		"name"		"타이어"
+	}
+
+	"models/props_2fort/tire002.mdl"
+	{
+		"name"		"타이어 #2"
+	}
+
+	"models/props_2fort/tire003.mdl"
+	{
+		"name"		"타이어 #3"
+	}
+
+	"models/props_2fort/trainwheel001.mdl"
+	{
+		"name"		"기차 바퀴"
+	}
+
+	"models/props_2fort/trainwheel002.mdl"
+	{
+		"name"		"기차 바퀴 #2"
+	}
+
+	"models/props_2fort/trainwheel003.mdl"
+	{
+		"name"		"기차 바퀴 #3"
+	}
+
+	"models/props_2fort/trainwheel004.mdl"
+	{
+		"name"		"기차 바퀴 #4"
+	}
+
+	"models/props_2fort/wastebasket01.mdl"
+	{
+		"name"		"휴지통"
+		"offset"	"0 0 31"
+	}
+
+	"models/props_2fort/waterpump001.mdl"
+	{
+		"name"		"구식 워터 펌프"
+	}
+
+	"models/props_2fort/weathervane001.mdl"
+	{
+		"name"		"Weathervane"
+		"offset"	"0 0 18"
+	}
+	
+	"models/props_2fort/wood_shack001.mdl"
+	{
+		"name"		"Wood Shack (2Fort)"
+		"offset"	 "0 0 -15"
+	}
+
+	"models/props_badlands/barrel01.mdl"
+	{
+		"name"		"Large Barrel #1"
+	}
+
+	"models/props_badlands/barrel02.mdl"
+	{
+		"name"		"Large Barrel #2"
+	}
+
+	"models/props_badlands/barrel03.mdl"
+	{
+		"name"		"Large Barrel #3"
+	}
+
+	"models/props_farm/box_cluster01.mdl"
+	{
+		"name"		"Box Cluster"
+	}
+
+	"models/props_farm/concrete_block001.mdl"
+	{
+		"name"		"Concrete Block"
+	}
+
+	"models/props_farm/concrete_pipe001.mdl"
+	{
+		"name"		"Concrete Pipe #1"
+	}
+
+	"models/props_farm/concrete_pipe002.mdl"
+	{
+		"name"		"Concrete Pipe #2"
+	}
+
+	"models/props_farm/gibs/wooden_barrel_break01.mdl"
+	{
+		"name"		"Breakable Barrel"
+		"offset"	"0 0 30"
+	}
+	
+	"models/props_farm/haypile001.mdl"
+	{
+		"name"		"Pile of Hay"
+		"offset"	"0 0 -2"
+	}
+
+	"models/props_farm/metal_pile.mdl"
+	{
+		"name"		"Metal Pile"
+		"offset"	"0 0 20"
+	}
+
+	"models/props_farm/oilcan01.mdl"
+	{
+		"name"		"오일 캔 #1"
+	}
+
+	"models/props_farm/oilcan01b.mdl"
+	{
+		"name"		"오일 캔n #2"
+	}
+
+	"models/props_farm/oilcan02.mdl"
+	{
+		"name"		"오일 캔 #3"
+	}
+
+	"models/props_farm/paint_can001.mdl"
+	{
+		"name"		"Can of Paint #1"
+	}
+
+	"models/props_farm/paint_can002.mdl"
+	{
+		"name"		"Can of Paint #2"
+	}
+
+	"models/props_farm/pallet001.mdl"
+	{
+		"name"		"Shipping pallet"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_farm/spool_wire.mdl"
+	{
+		"name"		"Wire Spool"
+		"offset"	"0 0 24"
+	}
+
+	"models/props_farm/tractor_tire001.mdl"
+	{
+		"name"		"Tractor Tire"
+		"offset"	"0 0 15"
+	}
+
+	"models/props_farm/tree001.mdl"
+	{
+		"name"		"Tree (Farm)"
+	}
+
+	"models/props_farm/welding_machine01.mdl"
+	{
+		"name"		"Welding Machine"
+	}
+
+	"models/props_farm/wood_pile.mdl"
+	{
+		"name"		"Pile of Wood (Farm)"
+		"offset"	"0 0 15"
+	}
+
+	"models/props_farm/wood_shack001.mdl"
+	{
+		"name"		"Wood Shack (Farm)"
+	}
+
+	"models/props_farm/wooden_barrel.mdl"
+	{
+		"name"		"Wooden Barrel"
+		"offset"	"0 0 30"
+	}
+
+	"models/props_foliage/cactus01.mdl"
+	{
+		"name"		"선인장"
+	}
+
+	"models/props_foliage/deadtree01.mdl"
+	{
+		"name"		"죽은 나무"
+	}
+
+	"models/props_foliage/joshuatree01.mdl"
+	{
+		"name"		"조슈아 나무 #1"
+	}
+
+	"models/props_foliage/joshuatree02.mdl"
+	{
+		"name"		"조슈아 나무 #2"
+	}
+
+	"models/props_foliage/shrub_01a.mdl"
+	{
+		"name"		"Shrub #1a"
+	}
+
+	"models/props_foliage/shrub_03_cluster.mdl"
+	{
+		"name"		"Shrub Cluster #3"
+	}
+
+	"models/props_foliage/shrub_03_cluster02.mdl"
+	{
+		"name"		"Shrub Cluster #2"
+	}
+
+	"models/props_foliage/shrub_03a.mdl"
+	{
+		"name"		"Shrub #3a"
+	}
+
+	"models/props_foliage/shrub_03b.mdl"
+	{
+		"name"		"Shrub #3b (Foliage)"
+	}
+
+	"models/props_foliage/shrub_03c.mdl"
+	{
+		"name"		"Shrub #3 (Foliage)"
+	}
+
+	"models/props_foliage/spikeplant01.mdl"
+	{
+		"name"		"Spiked Plant"
+	}
+
+	"models/props_foliage/tree01.mdl"
+	{
+		"name"		"나무 #1"
+	}
+
+	"models/props_foliage/tree_pine01.mdl"
+	{
+		"name"		"소나무"
+	}
+
+	"models/props_foliage/tree_pine_extrasmall.mdl"
+	{
+		"name"		"소나무 (소)"
+	}
+
+	"models/props_foliage/tree_pine_extrasmall_snow.mdl"
+	{
+		"name"		"눈 덮인 소나무 (소)"
+	}
+
+	"models/props_forest/chimney03.mdl"
+	{
+		"name"		"Chimney Forest #3"
+		"offset"	"0 0 -5"
+	}
+
+	"models/props_forest/cliff_wall_02a.mdl"
+	{
+		"name"		"Cliff Wall #2a"
+		"offset"	"0 0 10"
+	}
+
+	"models/props_forest/cliff_wall_09a.mdl"
+	{
+		"name"		"Cliff Wall #9a"
+	}
+
+	"models/props_forest/cliff_wall_09b.mdl"
+	{
+		"name"		"Cliff Wall #9b"
+	}
+
+	"models/props_forest/cliff_wall_09c.mdl"
+	{
+		"name"		"Cliff Wall #9c"
+	}
+
+	"models/props_forest/kitchen_stove.mdl"
+	{
+		"name"		"Kitchen Stove"
+	}
+
+	"models/props_forest/milk_crate.mdl"
+	{
+		"name"		"Milk Crate"
+	}
+
+	"models/props_forest/rock001.mdl"
+	{
+		"name"		"Large Rock #1"
+	}
+
+	"models/props_forest/rock002.mdl"
+	{
+		"name"		"Large Rock #2"
+	}
+
+	"models/props_forest/rock003.mdl"
+	{
+		"name"		"Large Rock #3"
+	}
+
+	"models/props_forest/rock004.mdl"
+	{
+		"name"		"Large Rock #4"
+	}
+
+	"models/props_forest/rock006.mdl"
+	{
+		"name"		"Scattered Rocks #6"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_forest/rock006b.mdl"
+	{
+		"name"		"Scattered Rocks #6b"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_forest/rock006c.mdl"
+	{
+		"name"		"Scattered Rocks #6c"
+		"offset"	"0 0 7"
+	}
+
+	"models/props_forest/saw_blade.mdl"
+	{
+		"name"		"Saw Blade (Small)"
+	}
+
+	"models/props_forest/saw_blade_large.mdl"
+	{
+		"name"		"Saw Blade (Large)"
+	}
+
+	"models/props_forest/sawmill_logs.mdl"
+	{
+		"name"		"Log Pile (Large)"
+	}
+
+	"models/props_forest/shrub_03b.mdl"
+	{
+		"name"		"Shrub #3b (Forest)"
+	}
+
+	"models/props_forest/shrub_03c.mdl"
+	{
+		"name"		"Shrub #3 (Forest)"
+	}
+
+	"models/props_forest/train_engine.mdl"
+	{
+		"name"		"Train Engine #1"
+	}
+
+	"models/props_forest/train_engine_01.mdl"
+	{
+		"name"		"Steam Train"
+	}
+
+	"models/props_forest/tree_pine_singlelog.mdl"
+	{
+		"name"		"Log"
+	}
+
+	"models/props_forest/tree_pine_stackedlogs.mdl"
+	{
+		"name"		"Large Stack of Logs"
+	}
+
+	"models/props_forest/tree_pine_stump01.mdl"
+	{
+		"name"		"Tree Stump #1"
+	}
+
+	"models/props_forest/tree_pine_stump02.mdl"
+	{
+		"name"		"Tree Stump #2"
+	}
+
+	"models/props_forest/wood_pile.mdl"
+	{
+		"name"		"Pile of Wood (Forest)"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_forest/wood_pile_short.mdl"
+	{
+		"name"		"Wood Pile (Short)"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_forest/woodpile_indoor.mdl"
+	{
+		"name"		"Pile of Wood"
+	}
+
+	"models/props_gameplay/cap_point_base.mdl"
+	{
+		"name"		"점령지"
+		"offset"	"0 0 -2"
+	}
+
+	"models/props_gameplay/haybale.mdl"
+	{
+		"name"		"Haybale"
+		"offset"	"0 0 10"
+	}
+
+	"models/props_gameplay/orange_cone001.mdl"
+	{
+		"name"		"Traffic Cone"
+	}
+
+	"models/props_gameplay/security_fence_section01.mdl"
+	{
+		"name"		"Security Fence"
+	}
+
+	"models/props_gameplay/sign_barricade001a.mdl"
+	{
+		"name"		"Barricade"
+	}
+
+	"models/props_granary/grain_sack.mdl"
+	{
+		"name"		"Grain Sack"
+	}
+
+	"models/props_granary/rocket_launchpad3.mdl"
+	{
+		"name"		"Rocket"
+	}
+
+	"models/props_halloween/ghost.mdl"
+	{
+		"name"		"Ghost"
+	}
+
+	"models/props_halloween/pumpkin_01.mdl"
+	{
+		"name"		"Small Halloween Pumpkin"
+	}
+
+	"models/props_halloween/pumpkin_02.mdl"
+	{
+		"name"		"Large Halloween Pumpkin"
+	}
+
+	"models/props_halloween/pumpkin_03.mdl"
+	{
+		"name"		"Medium Halloween Pumpkin"
+	}
+
+	"models/props_halloween/pumpkin_explode.mdl"
+	{
+		"name"		"Exploding Pumpkin"
+	}
+
+	"models/props_halloween/tombstone_01.mdl"
+	{
+		"name"		"Fake Tombstone"
+	}
+
+	"models/props_hydro/barrel_crate.mdl"
+	{
+		"name"		"Crate"
+	}
+
+	"models/props_hydro/barrel_crate_half.mdl"
+	{
+		"name"		"Crate (Small)"
+	}
+
+	"models/props_hydro/dumptruck.mdl"
+	{
+		"name"		"Dump Truck"
+		"offset"	"0 0 2"
+	}
+
+	"models/props_hydro/metal_barrier01.mdl"
+	{
+		"name"		"Metal Barrier (Small)"
+	}
+
+	"models/props_hydro/metal_barrier02.mdl"
+	{
+		"name"		"Metal Barrier"
+	}
+
+	"models/props_hydro/road_bumper01.mdl"
+	{
+		"name"		"Bollard"
+	}
+
+	"models/props_hydro/water_barrel.mdl"
+	{
+		"name"		"Water Barrel"
+	}
+
+	"models/props_hydro/water_barrel_large.mdl"
+	{
+		"name"		"Water Barrel (Large)"
+	}
+
+	"models/props_hydro/water_barrel_cluster.mdl"
+	{
+		"name"		"Water Barrel (Cluster)"
+	}
+
+	"models/props_hydro/water_barrel_cluster2.mdl"
+	{
+		"name"		"Hazardous Waste Yellow (Cluster)"
+	}
+
+	"models/props_hydro/water_barrel_cluster3.mdl"
+	{
+		"name"		"Hazardous Waste Red (Cluster)"
+	}
+
+	"models/props_hydro/water_machinery1.mdl"
+	{
+		"name"		"Water Pump"
+	}
+
+	"models/props_manor/baby_grand_01.mdl"
+	{
+		"name"		"Baby Grand Piano"
+	}
+
+	"models/props_manor/bookcase_132_01.mdl"
+	{
+		"name"		"책장 #1"
+	}
+
+	"models/props_manor/bookcase_132_02.mdl"
+	{
+		"name"		"책장 #2"
+	}
+
+	"models/props_manor/bookcase_132_03.mdl"
+	{
+		"name"		"책장 #3"
+	}
+
+	"models/props_manor/cardboard_box_set_01.mdl"
+	{
+		"name"		"골판지 상자 세트 #1"
+	}
+
+	"models/props_manor/cardboard_box_set_02.mdl"
+	{
+		"name"		"골판지 상자 세트 #2"
+	}
+
+	"models/props_manor/chair_01.mdl" 
+	{
+		"name"		"의자 #2"
+	}
+
+	"models/props_manor/coffin_01.mdl"
+	{
+		"name"		"관"
+	}
+
+	"models/props_manor/coffin_02.mdl"
+	{
+		"name"		"관 #2"
+	}
+
+	"models/props_manor/couch_01.mdl"
+	{
+		"name"		"소파"
+	}
+
+	"models/props_manor/grandfather_clock_01.mdl"
+	{
+		"name"		"대형 괘종시계"
+	}
+
+	"models/props_manor/gravestone_01.mdl"
+	{
+		"name"		"묘비 #1"
+	}
+
+	"models/props_manor/gravestone_02.mdl"
+	{
+		"name"		"묘비 #2"
+	}
+
+	"models/props_manor/gravestone_03.mdl"
+	{
+		"name"		"십자가 묘비"
+	}
+
+	"models/props_manor/gravestone_04.mdl"
+	{
+		"name"		"비석"
+	}
+
+	"models/props_manor/table_01.mdl" 
+	{
+		"name"		"Small Uncovered Table"
+	}
+
+	"models/props_manor/table_02.mdl" 
+	{
+		"name"		"Small Covered Table"
+	}
+
+	"models/props_manor/table_03.mdl" 
+	{
+		"name"		"Large Uncovered Table"
+	}
+
+	"models/props_manor/tractor_01.mdl"
+	{
+		"name"		"Tractor"
+	}
+	
+	"models/props_manor/vase_01.mdl"
+	{
+		"name"		"Vase"
+		"offset"	"0 0 32"
+	}
+
+	"models/props_medieval/bar_bench.mdl"
+	{
+		"name"		"Wooden Bench"
+	}
+
+	"models/props_medieval/bar_table.mdl"
+	{
+		"name"		"Wooden Table"
+	}
+
+	"models/props_medieval/pictureframe001.mdl"
+	{
+		"name"		"Degroot Family Portrait"
+	}
+
+	"models/props_medieval/target/target.mdl"
+	{
+		"name"		"Arrow Target"
+	}
+
+	"models/props_mining/fence001_reference.mdl"
+	{
+		"name"		"Wooden Fence #1"
+	}
+
+	"models/props_mining/fence003_reference.mdl"
+	{
+		"name"		"Wooden Fence with Hole"
+	}
+
+	"models/props_mining/generator01.mdl"
+	{
+		"name"		"발전기"
+	}
+
+	"models/props_mining/generator_valve01.mdl"
+	{
+		"name"		"발전기 밸브"
+	}
+
+	"models/props_mining/mining_shack001a.mdl"
+	{
+		"name"		"Mining Shack"
+	}
+
+	"models/props_mining/rock001.mdl"
+	{
+		"name"		"대형 바위 #1"
+	}
+
+	"models/props_mining/rock002.mdl"
+	{
+		"name"		대형 바위 #2"
+	}
+
+	"models/props_mining/rock006.mdl"
+	{
+		"name"		"흩어진 바위 #6"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_mining/sign001.mdl"
+	{
+		"name"		"Hazard Sign"
+	}
+
+	"models/props_mining/watertower001.mdl"
+	{
+		"name"		"Water Tower #1"
+	}
+
+	"models/props_mining/watertower002.mdl"
+	{
+		"name"		"Water Tower #2"
+	}
+
+	"models/props_nature/rock_worn001.mdl"
+	{
+		"name"		"Worn Rock"
+	}
+
+	"models/props_spytech/bench001a.mdl"
+	{
+		"name"		"벤치 #1"
+	}
+
+	"models/props_spytech/bench001b.mdl"
+	{
+		"name"		"벤치 #2"
+	}
+
+	"models/props_spytech/chair.mdl"
+	{
+		"name"		"의자"
+	}
+
+	"models/props_spytech/computer_low.mdl"
+	{
+		"name"		"Spytech Computer"
+	}
+
+	"models/props_spytech/computer_printer.mdl"
+	{
+		"name"		"Spytech Printer"
+	}
+
+	"models/props_spytech/computer_wall02.mdl"
+	{
+		"name"		"Wall Computer #2"
+	}
+
+	"models/props_spytech/computer_wall03.mdl"
+	{
+		"name"		"Wall Computer #3"
+	}
+
+	"models/props_spytech/computer_wall04.mdl"
+	{
+		"name"		"Wall Computer #4"
+	}
+
+	"models/props_spytech/computer_wall05.mdl"
+	{
+		"name"		"Wall Computer #5"
+	}
+
+	"models/props_spytech/control_room_console01.mdl"
+	{
+		"name"		"Spytech Console #1"
+	}
+
+	"models/props_spytech/control_room_console02.mdl"
+	{
+		"name"		"Spytech Console #2"
+	}
+
+	"models/props_spytech/control_room_console03.mdl"
+	{
+		"name"		"Spytech Console #3"
+	}
+
+	"models/props_spytech/control_room_console04.mdl"
+	{
+		"name"		"Spytech Console #4"
+	}
+
+	"models/props_spytech/suitcase.mdl"
+	{
+		"name"		"Intelligence Briefcase"
+		"offset"	"0 0 5"
+	}
+
+	"models/props_spytech/terminal_chair.mdl"
+	{
+		"name"		"Spytech Chair"
+	}
+
+	"models/props_spytech/time_card_machine.mdl"
+	{
+		"name"		"Time Card Machine"
+	}
+
+	"models/props_spytech/tv001.mdl"
+	{
+		"name"		"Television"
+	}
+
+	"models/props_spytech/watercooler.mdl"
+	{
+		"name"		"Water Cooler"
+	}
+
+	"models/props_spytech/work_table001.mdl"
+	{
+		"name"		"Work Table"
+	}
+
+	"models/props_swamp/big_jetty.mdl"
+	{
+		"name"		"Jetty (Dock)"
+	}
+
+	"models/props_swamp/buttress_tree_small_ref.mdl"
+	{
+		"name"		"Buttress Tree"
+	}
+
+	"models/props_swamp/buttress_tree_stump_tiny_ref.mdl"
+	{
+		"name"		"Buttress Tree Stump"
+	}
+
+	"models/props_swamp/picnic_table.mdl"
+	{
+		"name"		"Picnic Table"
+	}
+
+	"models/props_swamp/shrub_03b.mdl"
+	{
+		"name"		"Shrub #3b (Swamp)"
+	}
+
+	"models/props_training/target_demoman.mdl"
+	{
+		"name"		"데모맨 타겟"
+	}
+
+	"models/props_training/target_engineer.mdl"
+	{
+		"name"		"엔지니어 타겟"
+	}
+
+	"models/props_training/target_heavy.mdl"
+	{
+		"name"		"헤비 타겟"
+	}
+
+	"models/props_training/target_medic.mdl"
+	{
+		"name"		"메딕 타겟"
+	}
+
+	"models/props_training/target_pyro.mdl"
+	{
+		"name"		"파이로 타겟"
+	}
+
+	"models/props_training/target_scout.mdl"
+	{
+		"name"		"스카웃 타겟"
+	}
+
+	"models/props_training/target_sniper.mdl"
+	{
+		"name"		"스나이퍼 타겟"
+	}
+
+	"models/props_training/target_soldier.mdl"
+	{
+		"name"		"솔저 타겟"
+	}
+
+	"models/props_training/target_spy.mdl"
+	{
+		"name"		"스파이 타겟"
+	}
+
+	"models/props_trainyard/beer_keg001.mdl"
+	{
+		"name"		"Beer Keg"
+		"offset"	"0 0 34"
+	}
+
+	"models/props_trainyard/bomb_cart.mdl"
+	{
+		"name"		"Payload Cart (Blue)"
+		"offset"	"0 0 30"
+	}
+
+	"models/props_trainyard/bomb_cart_red.mdl"
+	{
+		"name"		"Payload Cart (Red)"
+		"offset"	"0 0 26"
+	}
+
+	"models/props_trainyard/cart_base_separate.mdl"
+	{
+		"name"		"Cart Base"
+	}
+
+	"models/props_trainyard/cart_bomb_separate.mdl"
+	{
+		"name"		"Cart Bomb (Blue)"
+	}
+
+	"models/props_trainyard/distillery_barrel001.mdl"
+	{
+		"name"		"Beer Barrel"
+		"offset"	"0 0 45"
+	}
+
+	"models/props_trainyard/portable_stairs001.mdl"
+	{
+		"name"		"Portable Stairs"
+	}
+
+	"models/props_trainyard/power_pylon.mdl"
+	{
+		"name"		"Power Pylon"
+	}
+
+	"models/props_vehicles/mining_car_metal.mdl"
+	{
+		"name"		"Mining Car"
+	}
+
+	"models/props_vehicles/mining_cart_supplies001.mdl"
+	{
+		"name"		"Mining Cart With Supplies"
+	}
+
+	"models/props_vehicles/mining_cart_supplies002.mdl"
+	{
+		"name"		"Mining Cart With Engineer Box"
+	}
+
+	"models/props_vehicles/pickup03.mdl"
+	{
+		"name"		"Pickup Truck"
+	}
+
+	"models/props_vehicles/train_engine.mdl"
+	{
+		"name"		"Train Engine #2"
+	}
+
+	"models/props_vehicles/train_enginecar.mdl"
+	{
+		"name"		"Train Engine #3"
+	}
+
+	"models/props_vehicles/train_flatcar_container.mdl"
+	{
+		"name"		"Shipping Container"
+	}
+
+	"models/props_vehicles/train_flatcar_container_01b.mdl"
+	{
+		"name"		"Shipping Container"
+	}
+
+	"models/props_vehicles/train_flatcar_leveltop.mdl"
+	{
+		"name"		"Train Flatbed"
+	}
+
+	"models/props_well/brewing_vat.mdl"
+	{
+		"name"		"Brewing Vat"
+	}
+
+	"models/props_well/computer_cart01.mdl"
+	{
+		"name"		"Computer Cart #1"
+	}
+
+	"models/props_well/computer_cart02.mdl"
+	{
+		"name"		"Computer Cart #2"
+	}
+
+	"models/props_well/hand_truck01.mdl"
+	{
+		"name"		"Hand Truck"
+	}
+
+	"models/weapons/w_models/w_toolbox.mdl"
+	{
+		"name"		"Engineer Toolbox"
+	}
+
+	"models/combine_strider.mdl"
+	{
+		"name"		"Combine Strider"
+		"offset"	"0 0 520"
+	}
+
+	"models/props_c17/chair_stool01a.mdl"
+	{
+		"name"		"Stool"
+	}
+
+	"models/props_c17/utilitypole01d.mdl"
+	{
+		"name"		"Telegraph Pole"
+	}
+
+	"models/props_junk/cardboard_box001a.mdl"
+	{
+		"name"		"Cardboard Box"
+	}
+
+	"models/props_rooftop/Roof_Dish001.mdl"
+	{
+		"name"		"Satellite Dish"
+	}
+
+	"models/props_rooftop/roof_vent004.mdl"
+	{
+		"name"		"Vent #4"
+	}
+
+	"models/props_trainstation/pole_384connection001a.mdl"
+	{
+		"name"		"Connection Pole"
+	}
+}

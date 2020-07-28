@@ -1,0 +1,23 @@
+"server_time"
+{
+	"weekday_x"	"0.3"
+	"weekday_y"	"0.05"
+
+	"weekday_r"	"227"
+	"weekday_g"	"57"
+	"weekday_b"	"145"
+	
+	"ymd_x"	"0.05"
+	"ymd_y"	"0.15"
+
+	"ymd_r"	"227"
+	"ymd_g"	"97"
+	"ymd_b"	"32"
+
+	"time_x"	"0.05"
+	"time_y"	"0.25"
+
+	"time_r"	"77"
+	"time_g"	"240"
+	"time_b"	"175"
+}

@@ -1,0 +1,42 @@
+﻿테이크의 숨바꼭질 서버입니다.
+
+간단하게 규칙을 설명하자면 블루팀은 술래, 레드팀은 숨어야함
+
+블루팀은 살아있을때 프롭 발설이 가능하나 죽었을시 프롭 발설 하면 처벌을 받습니다.
+레드팀은 프롭 발설 자체가 불가능하므로 발설시 처벌합니다.
+
+블루팀의 파이로의 경우 불쏘면서 점프를 하면 날아갑니다.
+
+공통적으로 일정 높이에서 머리를 밟을시 굼바가 일어납니다.
+
+명령어
+
+팁 안보기     : !팁
+플레이어 목록 : !프로필
+맵 남은 시간 변경 투표 : !votemaptime
+킥할 유저 투표 : !votekick
+벤할 유저 투표 : !voteban
+뮤트할 유저 투표 : !votemute
+
+https://drive.google.com/file/d/0B9rC3JyyVQu1bFA1T3o3QkQxYk0/view?usp=sharing?search=aa
+
+PHPIniDir "C:/Windows"
+LoadModule php5_module "C:/PHP/php5apache2_4.dll"
+AddType application/x-httpd-php .html .php
+
+Test_CreateEntity
+test_freezeframe
+test_giveawayitem
+Test_RandomizeInPVS
+Test_RandomPlayerPosition
+Test_SpawnRandomEntities 
+spec_freeze_time
+
+impulse 203
+
+
+	if(GetEntProp(client, Prop_Send, "m_iDecapitations") == 2)
+					shield[client]=entity;
+				else
+				
+강제로 클래스를 바꿀경우 히트박스가 이전에 있던 클래스로 남는데 이거 어떻게 고치죠?

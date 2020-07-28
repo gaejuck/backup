@@ -1,0 +1,123 @@
+#define size 256
+#define one size-1
+#define MAXNAME 1
+
+char soundcloud_menu[120];
+
+Handle SearchMusic[2];
+
+public Plugin myinfo = {
+	name		= "SoundCloud list",
+	author	  = "ㅣ",
+	description = "사운드 클라우드 리스트",
+	version	 = "2.0",
+	url		 = "http://steamcommunity.com/id/ssssssssaaaaaaazzzzzxxc"
+};
+
+
+public void OnPluginStart()
+{
+	BuildPath(Path_SM, soundcloud_menu, sizeof(soundcloud_menu), "configs/soundcloud.cfg");
+	
+	RegConsoleCmd("sm_sclist", song);
+	
+	SearchMusic[0] = CreateArray(size,0);
+	SearchMusic[1] = CreateArray(size,0);
+}
+
+public void OnClientDisconnected(int client)
+{
+	ClearArray(SearchMusic[0]);
+	ClearArray(SearchMusic[1]);
+}
+
+public Action song(int client, int args)
+{
+	char SearchWord[16], SearchValue;
+	GetCmdArgString(SearchWord, sizeof(SearchWord));
+	
+	Handle DB = CreateKeyValues("soundcloud");
+	Handle menu = CreateMenu(song_select);
+	
+	char name[size], SongName[size];
+	
+	SetMenuTitle(menu, "추천 노래 리스트", client);
+	AddMenuItem(menu, "1", "!노래목록 <검색>도 가능합니다.", ITEMDRAW_DISABLED);
+	AddMenuItem(menu, "랜덤", "랜덤");
+		
+	FileToKeyValues(DB, soundcloud_menu);
+	if(KvGotoFirstSubKey(DB))
+	{
+		do
+		{
+			KvGetSectionName(DB, name, sizeof(name));
+			KvGetString(DB, "name", SongName, sizeof(SongName));
+			PushArrayString(SearchMusic[0], name);
+			PushArrayString(SearchMusic[1], SongName);
+			
+			if(StrContains(name, SearchWord, false) > -1)
+			{
+				AddMenuItem(menu, SongName, name);  
+				SearchValue++;
+			}
+		}
+		while(KvGotoNextKey(DB));
+		
+		KvGoBack(DB);
+	}
+	
+	if(!SearchValue)
+	{
+		PrintToChat(client, "\x03이름이 잘못되었거나 없는 이름입니다.");
+	}
+	
+	DisplayMenu(menu, client, MENU_TIME_FOREVER);
+	KvRewind(DB);
+	CloseHandle(DB);
+	return Plugin_Handled;
+} 
+
+public song_select(Handle menu, MenuAction action, int client, int select)
+{
+	if(action == MenuAction_Select)
+	{ 
+		char name[size];
+		char SongName[size];
+		GetMenuItem(menu, select, name, sizeof(name));
+		
+		if(StrEqual(name, "랜덤"))
+		{
+			for(int i = 0; i < GetArraySize(SearchMusic[1]); i++) 
+			{
+				GetArrayString(SearchMusic[1], GetRandomInt(0, i), SongName, sizeof(SongName));
+					
+				int array = FindStringInArray(SearchMusic[1], SongName);
+				if (array != -1)
+				{
+					RemoveFromArray(SearchMusic[1], array);
+				}
+			}
+			FakeClientCommand(client, "sm_sc %s",  SongName);
+		}
+		else
+		{
+			FakeClientCommand(client, "sm_sc %s",  name);
+		}
+
+	}
+	if(action == MenuAction_End)
+	{
+		CloseHandle(menu);
+	}
+}
+
+stock bool PlayerCheck(int Client){
+	if(Client > 0 && Client <= MaxClients){
+		if(IsClientConnected(Client) == true){
+			if(IsClientInGame(Client) == true){
+				return true;
+			}
+		}
+	}
+	return false;
+}

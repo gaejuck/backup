@@ -1,0 +1,91 @@
+"Phrases"
+{
+	"Monday"
+	{
+		"en"			"Monday"
+		"ko"			"월요일"
+	}
+
+	"Tuesday"
+	{
+		"en"			"Monday"
+		"ko"			"화요일"
+	}
+	
+	"Wednesday"
+	{
+		"en"			"Monday"
+		"ko"			"수요일"
+	}
+
+	"Thursday"
+	{
+		"en"			"Monday"
+		"ko"			"목요일"
+	}
+	
+	"Friday"
+	{
+		"en"			"Friday"
+		"ko"			"금요일"
+	}
+	
+	"Saturday"
+	{
+		"en"			"Saturday"
+		"ko"			"토요일"
+	}
+	
+	"Sunday"
+	{
+		"en"			"Sunday"
+		"ko"			"일요일"
+	}
+	
+	"year"
+	{
+		"en"			"."
+		"ko"			"년"
+	}
+	
+	"mon"
+	{
+		"en"			"."
+		"ko"			"월"
+	}
+	
+	"day"
+	{
+		"en"			"."
+		"ko"			"일"
+	}
+	
+	"AM"
+	{
+		"en"			"AM"
+		"ko"			"오전"
+	}
+	
+	"PM"
+	{
+		"en"			"PM"
+		"ko"			"오후"
+	}
+	
+	"Hour"
+	{
+		"en"			":"
+		"ko"			"시"
+	}
+	
+	"Minute"
+	{
+		"en"			":"
+		"ko"			"분"
+	}
+	
+	"Second"
+	{
+		"en"			":"
+		"ko"			"초"
+	}

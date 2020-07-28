@@ -1,0 +1,2609 @@
+//BIGBOOM.PCF
+
+explosion_trailFire
+explosion_trailFire_mvm
+explosion_trailSmoke
+explosion_trailSmoke_mvm
+explosionTrail_seeds
+explosionTrail_seeds_mvm
+fire_smokeCloud
+fireSmoke_collumn
+fireSmoke_Collumn_mvmAcres
+fireSmoke_Collumn_mvmAcres_sm
+fireSmoke_collumnP
+fireSmokeExplosion
+fireSmokeExplosion2
+fireSmokeExplosion3
+fireSmokeExplosion4
+fireSmokeExplosion_track
+fireSmokeExplosion_trackb
+fluidSmokeExpl_ring
+fluidSmokeExpl_ring_mvm
+fluidSmokeExpl_track
+sparks_metal
+sparks_metal_2
+woodSplinter
+
+//BL_KILLTAUNT.PCF
+
+bl_killtaunt
+bl_killtaunt_appear
+bl_killtaunt_disappear
+bl_killtaunt_explosion
+bl_killtaunt_explosion_bits
+bl_killtaunt_explosion_flash
+bl_killtaunt_explosion_ring
+bl_killtaunt_explosion_smoke
+bl_killtaunt_finalburst
+bl_killtaunt_finalburst_smoke
+bl_killtaunt_flash01a
+bl_killtaunt_flash01b
+bl_killtaunt_flash02a
+bl_killtaunt_flash02b
+bl_killtaunt_flash03a
+bl_killtaunt_flash03b
+bl_killtaunt_flashes
+bl_killtaunt_lightning01
+bl_killtaunt_lightning02
+bl_killtaunt_lightning03
+bl_killtaunt_lightning_flash
+bl_killtaunt_necksparks
+bl_killtaunt_necksparks_colliding
+bl_killtaunt_necksparks_flashes
+bl_killtaunt_rays
+bl_killtaunt_rays01a1
+bl_killtaunt_rays01a2
+bl_killtaunt_rays01b1
+bl_killtaunt_rays01b2
+bl_killtaunt_rays02a1
+bl_killtaunt_rays02a2
+bl_killtaunt_rays02b1
+bl_killtaunt_rays02b2
+bl_killtaunt_rays03a1
+bl_killtaunt_rays03a2
+bl_killtaunt_rays03b1
+bl_killtaunt_rays03b2
+bl_killtaunt_sparks
+bl_killtaunt_sparks01a
+bl_killtaunt_sparks01b
+bl_killtaunt_sparks02a
+bl_killtaunt_sparks02b
+bl_killtaunt_sparks03a
+bl_killtaunt_sparks03b
+bl_killtaunt_spotlight
+
+//BLOOD_IMPACT.PCF
+
+blood_bread_biting
+blood_bread_biting2
+blood_decap
+blood_decap_arterial_spray
+blood_decap_fountain
+blood_decap_streaks
+blood_impact_backscatter
+blood_impact_backscatter_red
+blood_impact_green01
+blood_impact_green01_droplets
+blood_impact_green01_goop
+blood_impact_red_01
+blood_impact_red_01_chunk
+blood_impact_red_01_droplets
+blood_impact_red_01_goop
+blood_impact_red_01_smalldroplets
+blood_spray_red_01
+blood_spray_red_01_far
+env_grinder_oilspray
+env_grinder_oilspray_cash
+env_sawblood
+env_sawblood_chunk
+env_sawblood_goop
+env_sawblood_mist
+lowV_blood_impact_red_01
+lowV_blood_spray_red_01
+lowV_blood_spray_red_01_far
+lowV_debrischunks
+lowV_impactglow
+lowV_oildroplets
+lowV_smallerchunks
+lowv_sparks1
+lowV_water_blood_impact_red_01
+lowV_water_bubbles
+lowV_water_debris
+temp_blood_spray_red_01
+temp_blood_spray_red_01_far
+tfc_sniper_mist
+tfc_sniper_mist2
+tfc_sniper_mist_dir
+tfc_sniper_mist_streaks
+water_blood_impact_red_01
+water_blood_impact_red_01_chunk
+water_blood_impact_red_01_goop
+
+//BLOOD_TRAIL.PCF
+
+blood_trail_red_01_droplets
+blood_trail_red_01_goop
+ 
+//BOMBINOMICON.PCF
+ 
+bomb_vortex_skull
+bombinomicon_airwaves
+bombinomicon_airwaves_base
+bombinomicon_vortex
+  
+//BUILDINGDAMAGE.PCF
+
+buildingdamage_dispenser_fire0
+buildingdamage_dispenser_fire1
+buildingdamage_fire1
+buildingdamage_fire2
+buildingdamage_fire3
+buildingdamage_smoke1
+buildingdamage_smoke2
+buildingdamage_smoke3
+buildingdamage_smoke4
+buildingdamage_sparks1
+buildingdamage_sparks2
+buildingdamage_sparks4
+dispenserdamage_1
+dispenserdamage_2
+dispenserdamage_3
+dispenserdamage_4
+dispensersmoke_1
+dispensersmoke_2
+nutsnbolts_build
+nutsnbolts_repair
+nutsnbolts_upgrade
+sentrydamage_1
+sentrydamage_2
+sentrydamage_3
+sentrydamage_4
+tpdamage_1
+tpdamage_2
+tpdamage_3
+tpdamage_4
+tpdamage_smoke1
+
+//BULLET_TRACERS.PCF
+
+bullet_bignasty_impact_chunks
+bullet_bignasty_tracer01_blue
+bullet_bignasty_tracer01_blue_crit
+bullet_bignasty_tracer01_red
+bullet_bignasty_tracer01_red_crit
+bullet_impact1_blue_crit
+bullet_impact1_blue_critglow
+bullet_impact1_red_crit
+bullet_impact1_red_critglow
+bullet_pistol_tracer01_blue
+bullet_pistol_tracer01_blue_crit
+bullet_pistol_tracer01_red
+bullet_pistol_tracer01_red_crit
+bullet_scattergun_impact01
+bullet_scattergun_tracer01_blue
+bullet_scattergun_tracer01_blue_crit
+bullet_scattergun_tracer01_red
+bullet_scattergun_tracer01_red_crit
+bullet_shotgun_tracer01_blue
+bullet_shotgun_tracer01_blue_crit
+bullet_shotgun_tracer01_red
+bullet_shotgun_tracer01_red_crit
+bullet_tracer01
+bullet_tracer01_blue
+bullet_tracer01_blue_crit
+bullet_tracer01_crit
+bullet_tracer01_red
+bullet_tracer01_red_crit
+bullet_tracer02_blue
+bullet_tracer02_blue_crit
+bullet_tracer02_red
+bullet_tracer02_red_crit
+tfc_sniper_distortion_trail
+tfc_sniper_distortion_trail_noise
+
+//BURNINGPLAYER.PCF
+
+_brushstroke //무지개 개좋
+burning_torch
+burninggibs
+burningplayer_blue
+burningplayer_blueglow
+burningplayer_corpse
+burningplayer_corpse_rainbow
+burningplayer_corpse_rainbow_glow
+burningplayer_corpse_rainbow_glow_white
+burningplayer_corpse_rainbow_stars
+burningplayer_corpseglow
+burningplayer_flyingbits
+burningplayer_glow
+burningplayer_glow_blue
+burningplayer_rainbow
+burningplayer_rainbow_blue
+burningplayer_rainbow_flame //로캣에 좋을라나
+burningplayer_rainbow_glow
+burningplayer_rainbow_glow_old
+burningplayer_rainbow_glow_white
+burningplayer_rainbow_OLD
+burningplayer_rainbow_red
+burningplayer_rainbow_stars
+burningplayer_rainbow_stars01
+burningplayer_rainbow_stars02
+burningplayer_rainbow_stars03
+burningplayer_rainbow_stars04
+burningplayer_rainbow_stars_base
+burningplayer_rainbow_stroke
+burningplayer_rainbow_v2
+burningplayer_red
+burningplayer_redglow
+burningplayer_smoke
+burningplayer_smoke_blue
+electrocuted_blue
+electrocuted_blue_flash
+electrocuted_gibbed_blue
+electrocuted_gibbed_blue_flash
+electrocuted_gibbed_red
+electrocuted_gibbed_red_flash
+electrocuted_red
+electrocuted_red_flash
+flaming_arrow //헌츠맨 불붙을때 불..
+flaming_arrow_smoke
+flying_flaming_arrow
+flying_flaming_arrow_smoke
+ghost_pumpkin
+ghost_pumpkin_blueglow
+ghost_pumpkin_flyingbits
+halloween_burningplayer_flyingbits
+pyrovision_flaming_arrow //이거.. 헌츠맨에 붙으면 좋을거같은데 활
+pyrovision_flying_flaming_arrow
+pyrovision_v_flaming_arrow
+v_flaming_arrow
+v_flaming_arrow_smoke
+
+//CIG_SMOKE.PCF
+
+cig_burn
+cig_smoke
+drg_pipe_smoke
+
+//CINEFX.PCF
+
+bombinomicon_burning_piece
+bombinomicon_burning_piece_halloween
+bombinomicon_burningdebris
+bombinomicon_burningdebris_halloween
+bombinomicon_burningsmoke
+bombinomicon_burningsmoke_halloween
+bombinomicon_flash
+bombinomicon_flash_halloween
+bombinomicon_flash_small
+bombinomicon_flash_small_halloween
+bombinomicon_ring
+cinefx_goldrush
+cinefx_goldrush_burningbarrel //음.. 동그라미.. 연기올라옴 음.. 머리
+cinefx_goldrush_burningdebris
+cinefx_goldrush_burningpiece
+cinefx_goldrush_burningsmoke
+cinefx_goldrush_debris
+cinefx_goldrush_embers
+cinefx_goldrush_flames
+cinefx_goldrush_flash
+cinefx_goldrush_hugedustup
+cinefx_goldrush_initial_smoke
+cinefx_goldrush_initial_smoke2
+cinefx_goldrush_pitglow
+cinefx_goldrush_smoke
+k2013_corpse_flame
+k2013_corpse_smoke
+hightower_explosion
+hightower_smoke
+skull_island_burning_piece //동그라미.. 그 위에꺼랑 같아.. 그 구름 올라오는거 보라색 머리
+skull_island_burningdebris
+skull_island_burningsmoke
+skull_island_debris
+skull_island_embers //폭발
+skull_island_explosion
+skull_island_flash
+skull_island_hugedustup
+skull_island_intial_smoke
+
+//CLASS_FX.PCF
+
+dodge_test
+eye_powerup_blue_lvl_1
+eye_powerup_blue_lvl_1b
+eye_powerup_blue_lvl_2
+eye_powerup_blue_lvl_3
+eye_powerup_blue_lvl_4
+eye_powerup_blue_lvl_4b
+eye_powerup_green_lvl_1
+eye_powerup_green_lvl_2
+eye_powerup_green_lvl_3
+eye_powerup_green_lvl_4
+eye_powerup_red_lvl_1
+eye_powerup_red_lvl_1b
+eye_powerup_red_lvl_2
+eye_powerup_red_lvl_3
+eye_powerup_red_lvl_4
+eye_powerup_red_lvl_4b
+god_rays
+god_rays_fog
+grenade_smoke
+grenade_smoke_cycle
+heavy_ring_of_fire
+heavy_ring_of_fire_child01
+heavy_ring_of_fire_child02
+heavy_ring_of_fire_child03
+heavy_ring_of_fire_fp
+heavy_ring_of_fire_fp_child01
+heavy_ring_of_fire_fp_child02
+heavy_ring_of_fire_fp_child03
+killstreak_t0_lvl1_flash
+killstreak_t0_lvl1_flash3
+killstreak_t1_lvl1
+killstreak_t1_lvl1_glow
+killstreak_t1_lvl1_sparks
+killstreak_t1_lvl2
+killstreak_t1_lvl2_glow
+killstreak_t2_lvl1
+killstreak_t2_lvl1_glow
+killstreak_t2_lvl2
+killstreak_t2_lvl2_glow
+killstreak_t3_lvl1
+killstreak_t3_lvl1_smoke
+killstreak_t3_lvl2
+killstreak_t3_lvl2_smoke
+killstreak_t4_lvl1
+killstreak_t4_lvl1_glow
+killstreak_t4_lvl2
+killstreak_t5_lvl1
+killstreak_t5_lvl1_glow
+killstreak_t5_lvl2
+killstreak_t5_lvl2_glow
+killstreak_t6_lvl1
+killstreak_t6_lvl1_smoke
+killstreak_t6_lvl2
+killstreak_t6_lvl2_smoke
+killstreak_t6_lvl2_sparks
+killstreak_t6_lvl2_sparks2
+killstreak_t7_lvl1
+killstreak_t7_lvl1_detail
+killstreak_t7_lvl1_edge
+killstreak_t7_lvl2
+laser_sight
+laser_sight_beam
+laser_sight_beam_dot
+medic_healradius_blue_buffed
+medic_healradius_red_buffed
+medic_megaheal_blue
+medic_megaheal_blue_shower
+medic_megaheal_red
+medic_megaheal_red_shower
+medic_radiusheal_blue_spikes
+medic_radiusheal_blue_spiral
+medic_radiusheal_blue_volume
+medic_radiusheal_red_spikes
+medic_rediusheal_red_spiral
+medic_radiusheal_red_volume
+medic_resist_blast
+medic_resist_bullet
+medic_resist_fire
+medic_resist_match_blast_blue
+medic_resist_match_blast_red
+medic_resist_match_bullet_blue
+medic_resist_match_bullet_red
+medic_resist_match_fire_blue
+medic_resist_match_fire_red
+ping_circle //초록 오라 트레일 굉장히 작아..
+scout_dodge_blue
+scout_dodge_pants
+scout_dodge_red
+scout_dodge_socks
+set_taunt_saharan_spy //폭풍 언유
+set_taunt_saharan_spy_cloud
+set_taunt_saharan_spy_cloud2
+set_taunt_saharan_spy_sand
+set_taunt_saharan_spy_sand2
+set_taunt_saharan_spy_whirlwind
+set_taunt_saharan_spy_whirlwind2
+set_taunt_saharan_spy_whirlwind3
+warp_version //모름
+
+//CLASSIC_ROCKET_TRAIL.PCF
+
+rocket_explosion_classic
+rocket_explosion_classic_b
+rocket_explosion_classic_crit_blue
+rocket_explosion_classic_crit_red
+rocket_trail_classic
+rocket_trail_classic_b
+rocket_trail_classic_crit_blue
+rocket_trail_classic_crit_red
+test_classic_trail
+
+//COIN_SPIN.PCF
+ 
+coin_spin
+
+//CONC_STARS.PCF
+
+bonk_text
+conc_stars
+conc_trail
+ghost_trail
+yikes_fx
+yikes_text
+
+//CRIT.PCF
+
+achieved
+crit_text
+doubledonk_test
+heal_text
+hit_text
+mini_firework_flare
+mini_fireworks
+minicrit_text
+miss_text
+
+//DEFAULT.PCF
+
+default
+
+//DIRTY_EXPLODE.PCF
+
+asplode_hoodoo
+asplode_hoodoo_burning_debris
+asplode_hoodoo_burning_piece
+asplode_hoodoo_debris
+asplode_hoodoo_dust
+asplode_hoodoo_embers
+asplode_hoodoo_flash
+asplode_hoodoo_green
+asplode_hoodoo_initial_smoke
+asplode_hoodoo_shockwave
+asplode_hoodoo_smoke
+cinefx_goldrush
+cinefx_goldrush_burningbarrel
+cinefx_goldrush_burningdebris
+cinefx_goldrush_burningpiece
+cinefx_goldrush_burningsmoke
+cinefx_goldrush_debris
+cinefx_goldrush_embers
+cinefx_goldrush_flames
+cinefx_goldrush_flash
+cinefx_goldrush_hugedustup
+cinefx_goldrush_initial_smoke
+cinefx_goldrush_initial_smoke2
+cinefx_goldrush_pitglow
+cinefx_goldrush_smoke
+
+//DISGUISE.PCF
+
+disguise_flash_blue
+disguise_flash_red
+spy_start_disguise_blue
+spy_start_disguise_red
+spy_stolen_flash_blue
+spy_stolen_flash_red
+spy_stolen_smoke_blue
+spy_stolen_smoke_red
+
+   
+//DOOMSDAY_FX.PCF
+ 
+australium_bar_glow
+australium_bubbles
+base_destroyed_smoke_doomsday
+dooms_nuke_collumn
+dooms_nuke_ring
+flash_doomsday
+rockettrail_burst_doomsday
+rockettrail_doomsday
+rockettrail_fire_doomsday
+rockettrail_vents_doomsday
+shockwave_ring_doomsday
+ 
+//DRG_BISON.PCF
+ 
+bison_idle_child_electro
+bison_idle_child_sparks01
+bison_idle_child_sparks02
+bison_impact_child_electro
+bison_impact_child_flare
+bison_impact_child_sparks01
+bison_impact_child_sparks02
+bison_muzzleflash_child_beam01
+bison_muzzleflash_child_beam02
+bison_muzzleflash_child_beam04
+bison_muzzleflash_child_beam05
+bison_muzzleflash_child_beam06
+bison_muzzleflash_child_electro
+bison_muzzleflash_child_flare
+bison_muzzleflash_child_sparks01
+bison_muzzleflash_child_sparks02
+bison_muzzleflash_child_sparks_rear
+bison_projectile_child_core
+bison_projectile_child_core_crit
+bison_projectile_child_electro
+bison_projectile_child_ring01
+bison_projectile_child_ring01_crit
+bison_projectile_child_ring02
+drg_bison_idle
+drg_bison_impact
+drg_bison_muzzleflash
+drg_bison_projectile
+drg_bison_projectile_crit
+drg_bison_reload
+  
+//DRG_COWMANGLER.PCF
+ 
+cowmangler_idle_child_beam01
+cowmangler_idle_child_electro1
+cowmangler_idle_child_electro2
+cowmangler_impact_charged_child_electro
+cowmangler_impact_charged_child_electrohelpers
+cowmangler_impact_charged_child_flash
+cowmangler_impact_charged_child_rings
+cowmangler_impact_charged_child_sparks
+cowmangler_impact_normal_child_electro
+cowmangler_impact_normal_child_electrohelpers
+cowmangler_impact_normal_child_flash
+cowmangler_impact_normal_child_rings
+cowmangler_impact_normal_child_sparks
+cowmangler_muzzleflash_charged_child_electro
+cowmangler_muzzleflash_chargeup_child_electro
+cowmangler_muzzleflash_chargeup_child_glow
+cowmangler_muzzleflash_normal_child_electro
+cowmangler_muzzleflash_normal_child_sparks
+cowmangler_reload_child_sparks01
+cowmangler_reload_child_sparks02
+cowmangler_trail_charged_child_core03
+cowmangler_trail_charged_child_electro_locked
+cowmangler_trail_charged_child_rings
+cowmangler_trail_charged_child_sparks
+cowmangler_trail_charged_child_core03
+cowmangler_trail_charged_child_rings
+drg_cow_explosion_coreflash
+drg_cow_explosion_coreflash_blue
+drg_cow_explosion_flash_1
+drg_cow_explosion_flash_1_blue
+drg_cow_explosion_flashup
+drg_cow_explosion_flashup_blue
+drg_cow_explosion_flyingembers
+drg_cow_explosion_flyingembers_blue
+drg_cow_explosion_smoke
+drg_cow_explosion_smoke_blue
+drg_cow_explosion_sparkles
+drg_cow_explosion_sparkles_blue
+drg_cow_explosion_sparkles_charged
+drg_cow_explosion_sparkles_charged_blue
+drg_cow_explosion_sparks
+drg_cow_explosion_sparks_blue
+drg_cow_explosioncore_charged
+drg_cow_explosioncore_charged_blue
+drg_cow_explosioncore_normal
+drg_cow_explosioncore_normal_blue
+drg_cow_idle
+drg_cow_idle_blue
+drg_cow_idle_electro1
+drg_cow_idle_electro1_blue
+drg_cow_idle_electro2
+drg_cow_idle_electro2_blue
+drg_cow_muzzleflash_charged
+drg_cow_muzzleflash_charged_blue
+drg_cow_muzzleflash_normal
+drg_cow_muzzleflash_normal_blue
+drg_cow_muzzleflash_sparkles
+drg_cow_muzzleflash_sparkles_blue
+drg_cow_rockettrail_burst
+drg_cow_rockettrail_burst_blue
+drg_cow_rockettrail_burst_charged
+drg_cow_rockettrail_burst_charged_blue
+drg_cow_rockettrail_charged
+drg_cow_rockettrail_charged_blue
+drg_cow_rockettrail_fire
+drg_cow_rockettrail_fire_blue
+drg_cow_rockettrail_fire_charged
+drg_cow_rockettrail_fire_charged_blue
+drg_cow_rockettrail_normal
+drg_cow_rockettrail_normal_blue
+drg_cowmangler_idle
+drg_cowmangler_impact_charged
+drg_cowmangler_impact_normal
+drg_cowmangler_muzzleflash_charged
+drg_cowmangler_muzzleflash_chargeup
+drg_cowmangler_muzzleflash_normal
+drg_cowmangler_trail_charged
+drg_cowmangler_trail_normal
+  
+//DRG_ENGINEER.PCF
+ 
+drg_pomson_idle	
+drg_pomson_impact
+drg_pomson_impact_drain
+drg_pomson_muzzleflash
+drg_pomson_projectile
+drg_pomson_projectile_crit
+drg_wrenchmotron_idle
+drg_wrenchmotron_impact
+drg_wrenchmotron_teleport
+pomson_idle_sparks01
+pomson_impact_electro
+pomson_impact_flare
+pomson_impact_sparks01
+pomson_muzzleflash_cone
+pomson_muzzleflash_electro
+pomson_muzzleflash_flare
+pomson_muzzleflash_sparks01
+pomson_muzzleflash_sparks02
+pomson_projectile_core
+pomson_projectile_crit
+pomson_projectile_crit_bits
+pomson_projectile_electro
+pomson_projectile_ring01
+pomson_projectile_ring02
+pomson_projectile_zap
+wrenchmotron_idle_electro
+wrenchmotron_teleport_beam
+wrenchmotron_teleport_flash
+wrenchmotron_teleport_glow_big
+wrenchmotron_teleport_sparks
+ 
+//DRG_PYRO.PCF
+ 
+3rd_attack_glow
+3rd_idle_glow
+3rd_trail
+drg_3rd_idle
+drg_3rd_impact
+drg_3rd_trail
+drg_fiery_death
+drg_manmelter_idle
+drg_manmelter_impact
+drg_manmelter_muzzleflash
+drg_manmelter_projectile
+drg_manmelter_trail_blue
+drg_manmelter_trail_red
+drg_manmelter_vacuum
+drg_manmelter_vacuum_flames
+drg_phlo_idle
+drg_phlo_stream
+drg_phlo_stream_crit
+fiery_death_ash
+fiery_death_embers
+fiery_death_flame
+fiery_death_glow
+fiery_death_main
+fiery_death_main_smoke
+fiery_death_smoke
+manmelter_idle_sparks01
+manmelter_impact_electro
+manmelter_impact_flare
+manmelter_impact_sparks01
+manmelter_impact_sparks02
+manmelter_muzzleflash_electro
+manmelter_muzzleflash_flare
+manmelter_muzzleflash_sparks01
+manmelter_projectile_electro
+manmelter_projectile_glow
+manmelter_projectile_plasma
+manmelter_projectile_trail
+manmelter_trail_blue
+manmelter_trail_red
+manmelter_vacuum_bits
+manmelter_vacuum_flames
+manmelter_vacuum_flash
+manmelter_vacuum_smoke
+phlo_idle_glow
+phlo_stream_crit_extras
+phlo_stream_drips
+phlo_stream_glow
+phlo_stream_glow_unlocked
+phlo_stream_main
+phlo_stream_muzzle
+phlo_stream_noise
+phlo_stream_noise_sharp
+phlo_stream_noise_unlocked
+ 
+//DXHR_FX.PCF
+
+arm_detonate_electro
+arm_detonate_flare
+arm_detonate_sparks
+arm_impact_flare
+arm_impact_sparks
+arm_muzzleflash_electro
+arm_muzzleflash_flare
+arm_muzzleflash_test
+arm_muzzleflash_zap
+arm_muzzleflash_zap2
+arm_muzzleflash_zap3
+diamondback_enemytag_glow
+diamondback_enemytag_skull_black
+diamondback_enemytag_skull_helper
+diamondback_enemytag_skull_white
+dxhr_arm_impact
+dxhr_arm_muzzleflash
+dxhr_arm_muzzleflash2
+dxhr_diamondback_enemytag
+dxhr_sniper_fizzle
+dxhr_sniper_laser_blue
+dxhr_sniper_laser_red
+dxhr_sniper_muzzleflash
+dxhr_sniper_rail
+dxhr_sniper_rail_blue
+dxhr_sniper_rail_red
+dxhr_widowmaker_metalabsorb
+dxhr_widowmaker_shelleject
+sniper_dxhr_fizzle
+sniper_dxhr_flash_child01
+sniper_dxhr_flash_child02
+sniper_dxhr_laser_blue_line
+sniper_dxhr_laser_linetest
+sniper_dxhr_laser_red_line
+sniper_dxhr_laser_red_pulse
+sniper_dxhr_laser_red_pulse_cp0
+sniper_dxhr_laser_red_pulse_cp1
+sniper_dxhr_laser_red_pulse_line
+sniper_dxhr_rail
+sniper_dxhr_rail_blue
+sniper_dxhr_rail_end
+sniper_dxhr_rail_end_blue
+sniper_dxhr_rail_end_red
+sniper_dxhr_rail_noise
+sniper_dxhr_rail_noise_blue
+sniper_dxhr_rail_noise_red
+sniper_dxhr_rail_red
+widowmaker_absorb_nutsnbolts
+widowmaker_absorb_sparks
+widowmaker_shelleject_nutsnbolts
+  
+//EXPLOSION.PCF
+
+bday_1balloon
+bday_balloon01
+bday_balloon02
+bday_blood
+bday_bloodconfetti
+bday_bloodconfetti2
+bday_confetti
+bday_confetti_colors
+Explosion_bubbles
+Explosion_CoreFlash
+Explosion_Debris001
+Explosion_Dustup
+Explosion_Dustup_2
+Explosion_Flash_1
+Explosion_Flashup
+Explosion_FloatieEmbers
+Explosion_FlyingEmbers
+Explosion_ShockWave_01 //오라인데 크고 바로 사라져
+Explosion_Smoke_1
+ExplosionCore_buildings
+ExplosionCore_MidAir
+ExplosionCore_MidAire_Flare
+ExplosionCore_MidAir_underwater
+ExplosionCore_sapperdestroyed
+ExplosionCore_Wall
+ExplosionCore_Wall_underwater
+Explosions_MA_coreflash //뉴
+Explosions_MA_Debris001
+Explosions_MA_Dustup //뉴
+Explosions_MA_Dustup_2 //뉴
+Explosions_MA_Flash_1 //뉴 폭발
+Explosions_MA_Flashup
+Explosions_MA_FloatieEmbers
+Explosions_MA_FlyingEmbers
+Explosions_MA_Smoke_1
+Explosions_UW_Debris001
+pyrovision_1balloon
+pyrovision_blood
+pyrovision_explosion
+pyrovision_flaregun_destroyed
+sapper_coreflash
+sapper_debris
+sapper_flash //없음
+sapper_flashup
+sapper_flyingembers
+sapper_smoke
+
+rd_robot_explosion_shockwave //트레일 원생김
+rd_robot_explosion_smoke_linger
+rd_robot_explosion_trail
+rd_robot_explosion_trail_smoke
+rd_robot_explosion_trail_smoke2
+rd_robot_explosion_trail_smoke3
+rd_robot_exposion_glow
+   
+//EYEBOSS.PCF
+ 
+eb_aura_angry01
+eb_aura_angry02
+eb_aura_angry_warp
+eb_aura_calm01
+eb_aura_calm02
+eb_aura_grumpy01
+eb_aura_grumpy02
+eb_aura_stunned01
+eb_aura_stunned02
+eb_beam_angry_core01
+eb_beam_angry_core02
+eb_beam_angry_core03
+eb_beam_angry_core04
+eb_beam_angry_ring01
+eb_beam_tp_laser
+eb_beam_tp_ring01
+eb_beam_tp_spotlight
+eb_death_bits
+eb_death_flash
+eb_death_gas
+eb_death_goop
+eb_death_vortex01
+eb_death_vortex02
+eb_death_vortex03
+eb_death_vortex04
+eb_death_vortex05
+eb_doorway_vortex04
+eb_projectile_core01
+eb_projectile_core02
+eb_projectile_sparks
+eb_spit_bits
+eb_spit_gas
+eb_spit_goop
+eb_tb_escape_bits
+eb_tb_escape_flash01
+eb_tb_escape_warp
+eb_tb_normal_bits
+eb_tb_normal_flash01
+eb_tb_normal_flash02
+eb_tb_normal_warp
+eb_tb_player_flash
+eb_tb_player_rope
+eb_tb_vortex01 //이것도 
+eb_tb_vortex02 //없음
+eb_tb_vortex03
+eb_tb_vortex04
+eb_tb_vortex05
+eyeboss_aura_angry //방구 나옴 폭발 빨간색
+eyeboss_aura_calm//방구 나옴 폭발 파란색
+eyeboss_aura_grumpy //방구 나옴 폭발 보라색
+eyeboss_aura_stunned //방구 나옴 폭발 노란색
+eyeboss_beam_angry //로켓인데 보라색이 약간.. 나옴 약간..음 길이가 짧음 
+eyeboss_beam_tp //하늘에서 빔 내려옴 (안사라짐 주의)
+eyeboss_death
+eyeboss_death_vortex //로켓 슈퍼 간지남
+eyeboss_doorway_vortex
+eyeboss_projectile //보라색 로켓 슈퍼 간지남
+eyeboss_spit //자라테 로켓
+eyeboss_team_blue
+eyeboss_team_red
+eyeboss_team_sparks
+eyeboss_team_sparks_red
+eyeboss_tp_escape
+eyeboss_tp_normal
+eyeboss_tp_player
+eyeboss_tp_vortex //파란색 로켓 슈퍼 간지남
+eyeboss_vortex_blue //파란색 별 로켓도 대고 몸 트레일 등등 좋음
+eyeboss_vortex_red
+ 
+//FIRSTPERSON_WEAPON_FX.PCF
+
+critgun_weaponmodel_blu
+critgun_weaponmodel_blu_glow
+critgun_weaponmodel_red
+critgun_weaponmodel_red_glow
+crutgun_firstperson
+ 
+//FLAG_PARTICLES.PCF
+
+cart_flashinglight // 블루
+cart_flashinglight_glow
+cart_flashinglight_glow_red
+cart_flashinglight_light
+cart_flashinglight_light_red
+cart_flashinglight_red //뉴 삐뽀 삐뽀
+player_australium_boxertrail
+player_australium_socktrail
+player_australium_sparkles
+player_intel_papertrail
+player_intel_trail_blue
+player_intel_trail_red
+
+//FLAMETHROWER.PCF
+ 
+_flamethrower_REAL
+flamethrower
+flamethrower_blue
+flamethrower_crit_blue
+flamethrower_crit_blue_glow
+flamethrower_crit_blue_sparks2
+flamethrower_crit_pilot_blue
+flamethrower_crit_pilot_red
+flamethrower_crit_red
+flamethrower_crit_red_glow
+flamethrower_crit_red_sparks
+flamethrower_drips
+flamethrower_drips_rainbow
+flamethrower_fire_1
+flamethrower_fire_1_rainbow
+flamethrower_halloween
+flamethrower_halloween_crit_blue
+flamethrower_halloween_crit_red
+flamethrower_pilot
+flamethrower_pilot_rainbow
+flamethrower_rainbow
+flamethrower_rainbow_bubbles01
+flamethrower_rainbow_bubbles02 //거품이 큰데 트레일로 좋음
+flamethrower_rainbow_FP //괜찮은 무지개 산만한 무지개랑 비슷함
+flamethrower_rainbow_FP_BACKUP
+flamethrower_rainbow_FP_BACKUP2
+flamethrower_rainbow_FPbody //x
+flamethrower_rainbow_REAL //산만한 무지개
+flamethrower_rainbow_swirl //불 이펙트에 좋을라나.. 총이펙트? 나가는거
+flamethrower_rainbow_swirl_stars
+flamethrower_underwater
+flaregun_destroyed
+flaregun_destroyed_bits
+medicgun_beam_red_trail_stage3
+pyro_blast
+pyro_blast_flash
+pyro_blast_lines
+pyro_blast_warp
+pyro_blast_warp2
+pyrotaunt
+pyrotaunt_flame
+pyrotaunt_glow
+pyrotaunt_powerup //이거 도발 조명총
+pyrotaunt_rainbow //x
+pyrotaunt_rainbow_arc
+pyrotaunt_rainbow_arc_child
+pyrotaunt_rainbow_arc_rot
+pyrotaunt_rainbow_arc_rotA
+pyrotaunt_rainbow_arc_rotB
+pyrotaunt_rainbow_arc_v3A
+pyrotaunt_rainbow_arc_v3B
+pyrotaunt_rainbow_arc_v4_rope
+pyrotaunt_rainbow_arc_v4A
+pyrotaunt_rainbow_arc_v4A_rope
+pyrotaunt_rainbow_arc_v4B
+pyrotaunt_rainbow_arc_v4B_rope
+pyrotaunt_rainbow_ARCA
+pyrotaunt_rainbow_ARCB
+pyrotaunt_rainbow_balloonicorn //풍선 아무 효과없음
+pyrotaunt_rainbow_balloonicorn_ // 호박
+pyrotaunt_rainbow_bubbles //거품 트레일
+pyrotaunt_rainbow_bubbles_flame //파이로 화방 불
+pyrotaunt_rainbow_explosion01
+pyrotaunt_rainbow_explosion02
+pyrotaunt_rainbow_explosion03
+pyrotaunt_rainbow_explosion_unicorn
+pyrotaunt_rainbow_norainbow
+pyrotaunt_rainbow_norainbow_smoke01
+pyrotaunt_rainbow_norainbow_smoke02
+pyrotaunt_rainbow_rof
+pyrotaunt_rainbow_rof_embers
+pyrotaunt_rainbow_rof_expand
+pyrotaunt_rainbow_rof_ground
+pyrotaunt_rainbow_SIDEA
+pyrotaunt_rainbow_SIDEB
+pyrotaunt_rainbow_stars
+pyrotaunt_rainbow_sun //풍선 빛남
+pyrotaunt_rainbow_sunglow //빛남
+pyrotaunt_rainbow_TOP
+ 
+//FLAMETHROWER_MVM.PCF
+ 
+flamethrower_crit_giant_mvm
+flamethrower_crit_glow_giant_mvm
+flamethrower_crit_pilot_giant_mvm
+flamethrower_crit_sparks2_giant_mvm
+flamethrower_drips
+flametrhwoer_drips_giant_mvm
+flamethrower_fire_1
+flamethrower_fire_1_giant_mvm
+flamethrower_giant_mvm
+flamethrower_pilot_giant_mvm
+ 
+//FLAMETHROWERTEST.PCF
+ 
+flamethrower
+flamethrower_blue
+flamethrower_crit_blue
+flamethrower_crit_blue_glow
+flamethrower_crit_blue_sparks2
+flamethrower_crit_pilot_blue
+flamethrower_crit_pilot_red
+flamethrower_crit_red
+flamethrower_crit_red_glow
+flamethrower_crit_red_sparks
+flamethrower_drips
+flamethrower_fire_1
+flamethrower_pilot
+flamethrower_smoke_1
+flamethrower_underwater
+pyrotaunt
+pyrotaunt_flame
+pyrotaunt_glow
+pyrotaunt_powerup
+ 
+//HALLOWEEN.PCF
+ 
+bombonomicon_spell_trail //쓸모없을듯
+fuse_flame
+fuse_smoke
+fuse_sparks
+green_steam_jet
+green_steam_plume //초록색 트레일
+green_vortex_rain // 초록 비
+green_wof_sparks //초록 폭발 비처럼 내림
+halloween_explosion
+halloween_explosion_bits
+halloween_player_death
+halloween_player_death_blue
+halloween_pumpkin_cloud
+hwn_bats01
+hwn_cart_cap_blue //팀색
+hwn_cart_cap_neutral //그 저번에 핵있자나 그 빛 트레일?
+hwn_cart_cap_red // x
+hwn_cart_drips_blue //파란색 내려옴
+hwn_cart_drips_red //레드
+hwn_lava_01_goop
+hwn_lava_01_smoke
+hwn_lava_02_goop
+hwn_lava_02_smoke
+hwn_lava_03_smoke
+hwn_skeleton_glow_blue
+hwn_skeleton_glow_red
+merasmus_ambient
+merasmus_ambient_body
+merasmus_ambient_body_add
+merasmus_ambient_body_BACKUP
+merasmus_ambient_body_noadd
+merasmus_ambient_glow //유령,, 멀리서는 보이고 가까이선 안보이는거
+merasmus_ambient_smoke
+merasmus_ambient_smoke_add
+merasmus_blood
+merasmus_blood_bits
+merasmus_blood_lowdamage
+merasmus_blood_smoke
+merasmus_bomb_explosion
+merasmus_bomb_explosion_bits
+merasmus_bomb_explosion_blast
+merasmus_bomb_explosion_flash
+merasmus_bomb_explosion_smoke
+merasmus_book_attack
+merasmus_book_attack_blast //초록 올라옴 트레일
+merasmus_book_attack_core
+merasmus_book_attack_debris01
+merasmus_book_attack_debris02
+merasmus_book_attack_debris03
+merasmus_book_attack_debris04
+merasmus_book_attack_debris05
+merasmus_book_attack_debris06
+merasmus_book_attack_debris07
+merasmus_book_attack_fog
+merasmus_dazed //스턴같은데 머리에. 붙이면 좋을거같고 트레일
+merasmus_dazed_bits
+merasmus_dazed_blood //때릴때 폭발
+merasmus_dazed_explosion //폭발
+merasmus_dazed_flash
+merasmus_dazed_smoke
+merasmus_object_spawn //스폰
+merasmus_shoot //뉴 폭발
+merasmus_shoot_bits
+merasmus_shoot_blast
+merasmus_shoot_flash
+merasmus_shoot_smoke
+merasmus_spawn //스폰 또는 입장에 좋음 반복하면 좋을듯
+merasmus_spawn_burst
+merasmus_spawn_core
+merasmus_spawn_flash
+merasmus_spawn_flash2
+merasmus_spawn_fog
+merasmus_tp
+merasmus_tp_bits //위에 스폰인데 빛이 안나고 눈같은게 내림 트레일
+merasmus_tp_flash01
+merasmus_tp_flash02
+merasmus_tp_flash03 //오라 초록색 트레일
+merasmus_tp_smoke
+merasmus_tp_warp //오라 흰색 트레일
+merasmus_zap //그냥 빛나는 초록색
+merasmus_zap_beam01
+merasmus_zap_beam01_BACKUP
+merasmus_zap_beam02 //없음
+merasmus_zap_beam03
+merasmus_zap_beam_bits //별 초록색
+merasmus_zap_flash //모름.. 안나옴...
+spell_batball_blue //몸을 감싸면서 한 5초?정도
+spell_batball_imapct2_red //폭발? 
+spell_batball_impact2_blue //블루
+spell_batball_impact_blue //이것도
+spell_batball_impact_red //레드
+spell_batball_red //빨간색
+spell_batball_throw_blue //박쥐가 따라오는데 트레일인가 계속 따라옴
+spell_batball_throw_child_blue
+spell_batball_throw_child_red
+spell_batball_throw_red //레드
+spell_batball_trail_blue
+spell_batball_trail_red
+spell_cast_wheel_blue // 마법진 스폰
+spell_cast_wheel_red //레드
+spell_cast_wheel_text_blue //이건  마법진 없고 그.. 동그라미만.
+spell_cast_wheel_text_red
+spell_fireball_small_blue //파란색 그거.. 뭐냐 로켓에 좋을듯
+spell_fireball_small_glow_blue //동그란 파란색 
+spell_fireball_small_glow_red
+spell_fireball_small_red
+spell_fireball_small_red_old
+spell_fireball_small_trail_blue //위에 꺼와 다르게 이게 더 좋음
+spell_fireball_small_trail_red
+spell_fireball_tendril_child_blue //x
+spell_fireball_tendril_child_red
+spell_fireball_tendril_flash_blue //0.1초 빛나고 끝
+spell_fireball_tendril_flash_red
+spell_fireball_tendril_parent_blue //투명한 구슬같은게? 위에 올라왓다 내려감 곡선으로 폭발용
+spell_fireball_tendril_parent_red //레드
+spell_lightningball_center_blue //x
+spell_lightningball_center_red //레드
+spell_lightningball_glow2_blue //x
+spell_lightningball_glow2_red
+spell_lightningball_glow3_blue //x
+spell_lightningball_glow3_red
+spell_lightningball_glow_blue //x
+spell_lightningball_glow_red
+spell_lightningball_hit_blue
+spell_lightningball_hit_electro_blue //x
+spell_lightningball_hit_electro_red
+spell_lightningball_hit_flare_blue //x
+spell_lightningball_hit_flare_red
+spell_lightningball_hit_red
+spell_lightningball_hit_zap_blue //대각선으로 번개 1초 나옴
+spell_lightningball_hit_zap_red
+spell_lightningball_parent_blue //할로윈 마법 
+spell_lightningball_parent_red //레드
+spell_lightningball_parent_rope_blue //번개 줄.. 안사라짐 
+spell_lightningball_parent_rope_red
+spell_lightningball_parent_target_blue //그 가운데 돌아가는 줄 한개나옴 안사라짐
+spell_lightningball_parent_target_red
+spell_lightningball_sparks_blue //x
+spell_lightningball_sparks_red
+spell_overheal_blue
+spell_overheal_flash_blue //파란색으로 원기둥 빛나고 사라짐
+spell_overheal_flash_red //레드
+spell_overheal_red
+spell_pumpkin_mirv_bits_blue
+spell_pumpkin_mirv_bits_red
+spell_pumpkin_mirv_goop_blue //파란색 폭발
+spell_pumpkin_mirv_goop_red //주황색? 몰라 하지말자 이건 ㅋ
+spell_skeleton_bits_green //별
+spell_skeleton_goop_green //초록색 폭발?
+spell_teleport_black //간지나는 검정색 그 밑에 쭈루루루ㅜ룱
+spell_teleport_black_red
+spell_teleport_blue
+spell_teleport_red
+spellbook_major_burning //트레일 별 보라색 핑크색 위에 솟음
+spellbook_major_encircling //위에 솟지 않음
+spellbook_major_fire //보라색 핑크색 불
+spellbook_major_fire_sparkles
+spellbook_major_fog
+spellbook_major_tp_bits //보라 빨강 빛남 별같음 머리?
+spellbook_minor_burning //초록색 별 
+spellbook_minor_fire
+spellbook_minor_fire_sparkles
+spellbook_minor_sparks
+spellbook_rainbow
+spellbook_rainbow_glow
+spellbook_rainbow_glow_white
+spellbook_rainbow_stars
+underworld_gate_zap //가로로 길게 전기가 나오는데 이건 플레이어에게 붙는건 아닌거같고..;; 함정 3초나 폭발 3초??
+underworld_skull_eye_glow
+underworld_skull_smoke01
+underworld_skull_zap //노란게 나오긴한데 0.000001초만에 사라짐
+underworld_smoke01
+underworld_smoke02
+underworld_smoke03
+underworld_smoke04
+underworld_yellow_steam //트레일?
+
+//HARBOR_FX.PCF
+ 
+cauldron_embers
+cauldron_flamethrower
+cauldron_flamethrower_pilot
+cauldron_smoke_lit
+cauldron_smoke_lit_bottom
+harbor_smoke_blackbillow_skybox
+harbor_smoke_blackbillowflame_skybox
+harbor_smoke_whitebillow_skybox
+steam_jet
+steam_plume
+ 
+//IMPACT_FX
+
+impact_antlion
+impact_computer
+impact_computer_smoke
+impact_concrete
+impact_concrete_child_base
+impact_concrete_child_puff
+impact_concrete_noflecks
+impact_dirt
+impact_dirt_child_bounce
+impact_dirt_child_burst
+impact_dirt_child_smoke
+impact_dirt_nosmoke
+impact_generic_burn
+impact_generic_burst
+impact_generic_burst_2
+impact_generic_smoke
+impact_glass
+impact_glass_child_backblast
+impact_glass_child_burst
+impact_glass_child_smoke
+impact_metal
+impact_metal_child_base
+impact_metal_child_glow
+impact_metal_child_glowLarge
+impact_metal_child_smoke
+impact_wood
+impact_wood_child_puff
+impact_woodbroken
+ricochet_sparks
+
+//ITEM_FX.PCF
+ 
+birthday_player_circling
+birthday_player_circling_flame
+birthday_player_circling_flame_trail
+birthday_player_circling_glow
+bonersaw_temp
+bread_gloves_crumbs
+bread_gloves_droplets
+bread_gloves_goop
+bread_sapper_bolts
+bread_sapper_green_goop
+breadjar_groundsplash
+breadjar_impact
+breadjar_impact_bits
+breadjar_impact_cloud
+community_sparkle
+community_sparkle_rand
+duel_blue
+duel_blue_burst
+duel_red
+duel_red_burst
+energydrink_cola_splash
+energydrink_milk_splash
+energydrink_splash
+foot_stamp
+halloween_boss_foot_fire_customcolor
+halloween_boss_foot_impact_customcolor
+halloween_boss_victim
+halloween_ghosts
+halloween_gift_balloon01
+halloween_gift_balloon02
+halloween_gift_confetti_colors
+halloween_gift_pickup
+halloween_jack
+halloween_jack_glow
+halloween_notes
+halloween_pickup_active //영혼 같음
+halopoint
+headphone_notes
+headphone_soundwave
+healhuff_blu
+healhuff_blu_mist
+healhuff_red //힐 포션 먹을때 음.. 트레일 ㅋ
+healhuff_red_mist
+healthgained_blu
+healthgained_blu_giant
+healthgained_blu_large
+healthgained_red
+healthgained_red_giant
+healthgained_red_large
+healthlost_blu
+healthlost_red
+peejar_drips //콩물 트레일
+peejar_drips_cb
+peejar_drips_milk //우유
+peejar_groundsplash
+peejar_groundsplash_milk
+peejar_groundsplash_small
+peejar_icon
+peejar_impact
+peejar_impact_bits
+peejar_impact_bits_milk
+peejar_impact_cloud
+peejar_impact_cloud_milk
+peejar_impact_cloud_small
+peejar_impact_milk
+peejar_impact_small
+peejar_impacts_bits_small
+peejar_trail_blu
+peejar_trail_blu_glow
+peejar_trail_red
+peejar_trail_red_glow
+pumpkin_bits
+pumpkin_cloud
+pumpkin_explode
+pumpkin_sparkle
+sandwich_cheese
+sandwich_fx
+sandwich_lettuce
+sandwich_meat
+speech_mediccall
+speech_mediccall_attention
+speech_medichurt
+superare_balloon
+superrare_balloon_b
+superrare_balloon_c
+superrare_beam1_glow //썬빔에 빔
+superrare_beams1 //썬빔
+superrare_beams1_newstyle
+superrare_beany_b
+superrare_beany_c
+superrare_beany_green
+superrare_beany_green_b
+superrare_beany_hearts
+superrare_beany_hearts_b
+superrare_beany_target
+superrare_beany_tf
+superrare_burning1 //불 언유
+superrare_burning2 //불 초록언유
+superrare_burning_smoke
+superrare_circling_childglow
+superrare_circling_childglow_pink
+superrare_circling_glow //해골 노란색.. 그 팀포 로고 언유처럼 돌아다님 
+superrare_circling_heart //하트 언유
+superrare_circling_peacesign //그... 팀포 로고는 아닌데.. 있음 언유
+superrare_circling_skull //해골 초록색 위에꺼와 동일
+superrare_circling_tf //팀포 로고 언유
+superrare_confetti_green //종이.. 그뭐시기 언유 초록색
+superrare_confetti_purple //보라색
+superrare_flies
+superrare_ghosts //유령 언유
+superrare_ghosts_childglow //유령 없음
+superrare_greenenergy
+superrare_halo //천사링 언유
+superrare_halo_b
+superrare_orbit //행성없는 거... 돌같은게 돌아다님 트레일
+superrare_plasma1 //
+superrare_plasma2
+superrare_purpleenergy //보라색 언유
+superrare_sparkles1
+superrare_sparkles2
+superrare_sparkles3
+superrare_stormcloud //구름있고 비내리는 언유
+superrare_stormcloud_b //비만내림
+superrare_test
+tfc_sniper_charge_blue
+tfc_sniper_charge_red
+turret_shield
+turret_shield_b
+unusual_aaa_aaa //트로피 언유? ㅋㅋㅋ
+unusual_bats_flaming_bat_green //박쥐만 있음 초록
+unusual_bats_flaming_bat_orange //주황
+unusual_bats_flaming_bat_purple //보라
+unusual_bats_flaming_fire_green //귀차나.. 박쥐업고 걍 빛나
+unusual_bats_flaming_fire_orange
+unusual_bats_flaming_fire_purple
+unusual_bats_flaming_glow_green
+unusual_bats_flaming_glow_orange
+unusual_bats_flaming_glow_purple
+unusual_bats_flaming_proxy_green //박쥐 언유 세가지 밑에꺼가지 합치면댐 걍 
+unusual_bats_flaming_proxy_orange
+unusual_bats_flaming_proxy_purple
+unusual_blizzard //하얀 구름 언유 눈내림
+unusual_blizzard_clouds //구름만 
+unusual_blizzard_snow //눈만 내림 
+unusual_bubbles //거품 언유 
+unusual_bubbles_green //초록 거품  구름
+unusual_bubbles_green_fumes //초록 구름?>
+unusual_bubbles_green_goo
+unusual_bubbles_green_large
+unusual_bubbles_large
+unusual_crisp_spotlights //그.. 잇자나 빛나는거 언유 ㅋ 머지 그 조명 그거 아몰라
+unusual_crisp_spotlights_cones01
+unusual_crisp_spotlights_cones02
+unusual_crisp_spotlights_cones03
+unusual_fullmoon_cloudy //달 구름 언유
+unusual_fullmoon_cloudy_green //파란 달 초록 구름 언유 
+unusual_fullmoon_cloudy_green_clouds //이것보단
+unusual_fullmoon_cloudy_green_clouds2 //구름만 이게 더 좋음 
+unusual_fullmoon_cloudy_green_glow
+unusual_fullmoon_cloudy_secret //달 구름 달 사라지고 해골 언유
+unusual_fullmoon_cloudy_secret_eyeglow
+unusual_fullmoon_cloudy_secret_skull
+unusual_hearts_bubbling //이거 하트 언유같은데 도발언유인가
+unusual_hearts_bubbling_glow
+unusual_meteor_cast_text_green //이게 언유라는데 그 마법진 인데 진은 없고 동그라미만 세가지 
+unusual_meteor_cast_text_orange
+unusual_meteor_cast_text_purple
+unusual_meteor_cast_wheel_green //이건 마법진 언유 세가지  작아... 머리에 올려야대
+unusual_meteor_cast_wheel_orange
+unusual_meteor_cast_wheel_purple
+unusual_meteor_fireball_small_glow_orange
+unusual_meteor_fireball_small_glow_purple
+unusual_meteor_fireball_small_green
+unusual_meteor_fireball_small_orange
+unusual_meteor_fireball_small_purple
+unusual_meteor_shower01_green //초록내림 언유 세가지 이것보단 
+unusual_meteor_shower01_orange
+unusual_meteor_shower01_purple
+unusual_meteor_shower02_green //이걸로 하자 
+unusual_meteor_shower02_orange
+unusual_meteor_shower02_purple
+unusual_meteor_shower_parent_green //원본 언유 마법진 내리고 머고. 하는거 
+unusual_meteor_shower_parent_orange
+unusual_meteor_shower_parent_purple
+unusual_meteor_small_trail_green
+unusual_meteor_small_trail_orange
+unusual_meteor_small_trail_purple
+unusual_orbit_cards_teamcolor_blue //카드언유 파란색
+unusual_orbit_cards_teamcolor_red //레드
+unusual_orbit_cards_trail_teamcolor_blue 
+unusual_orbit_cards_trail_teamcolor_red 
+unusual_orbit_cash //돈 언유 
+unusual_orbit_cash_trail
+unusual_orbit_fire //회전하는 불 언유 
+unusual_orbit_fire_dark //보라색? 회전해 ㅇㅇ
+unusual_orbit_fire_dark_flames
+unusual_orbit_fire_dark_glow
+unusual_orbit_fire_flames
+unusual_orbit_fire_glow
+unusual_orbit_fullmoon_cloudy //달이 움직여 언유 회전해 
+unusual_orbit_fullmoon_cloudy_clouds
+unusual_orbit_fullmoon_cloudy_glow
+unusual_orbit_jack_flaming //호박 언유 움직여 회전해 
+unusual_orbit_jack_flaming_fire
+unusual_orbit_jack_flaming_glow
+unusual_orbit_jack_flaming_glow2
+unusual_orbit_nutsnbolts //넛볼 언유 
+unusual_orbit_nutsnbolts_fall
+unusual_orbit_nutsnbolts_large
+unusual_orbit_planets //회전하는 행성
+unusual_planets_child01
+unusual_planets_child02
+unusual_planets_child03
+unusual_planets_child04
+unusual_planets_planet01
+unusual_planets_planet02
+unusual_planets_planet03
+unusual_planets_planet04
+unusual_robot_holo_glow_green //로봇언유 초록색 
+unusual_robot_holo_glow_green_pixels //픽셀만 
+unusual_robot_holo_glow_orange //주황 
+unusual_robot_holo_glow_orange_pixels//귀찮
+unusual_robot_orbit_binary //픽셀 언유 회전해 초록색  
+unusual_robot_orbit_binary2 //노란색 
+unusual_robot_orbit_binary_fall
+unusual_robot_orbit_binary_fall2
+unusual_robot_orbit_binary_glow
+unusual_robot_orbit_binary_glow2
+unusual_robot_orbiting_sparks //노란전기 언유 회전함 
+unusual_robot_orbiting_sparks2 //보라 
+unusual_robot_orbiting_sparks_arclightning //머리에 그냥 꽂으면 댈걸 트레일 
+unusual_robot_orbiting_sparks_arclightning2//보라 
+unusual_robot_orbiting_sparks_glow
+unusual_robot_orbiting_sparks_glow2
+unusual_robot_orbiting_sparks_sparks
+unusual_robot_orbiting_sparks_sparks2
+unusual_robot_orbiting_sparks_star
+unusual_robot_orbiting_sparks_star2
+unusual_robot_radioactive //초록언유 ..로봇인가?
+unusual_robot_radioactive2 //보라 
+unusual_robot_radioactive_drops //그.. 초록언유 그.... 빛안나고 ..하는거 몰라 폭발 
+unusual_robot_radioactive_drops2 //보라 
+unusual_robot_radioactive_glow
+unusual_robot_radioactive_glow2
+unusual_robot_time_warp //타임워프 언유 노란
+unusual_robot_time_warp2 //초록
+unusual_robot_time_warp_edge
+unusual_robot_time_warp_edge2
+unusual_robot_time_warp_rays //빛남 트레일 
+unusual_robot_time_warp_spiral //타임워프에 그 돌아가고.. 그... 노란거.. 몰라 
+unusual_robot_time_warp_spiral2 //초록 
+unusual_skull_misty //해골만 나옴 언유 빛나
+unusual_skull_misty_eyeglow
+unusual_skull_misty_glow
+unusual_skull_misty_mist
+unusual_skull_misty_mist2
+unusual_skull_misty_mist3
+unusual_skull_misty_skull //딱 해골 
+unusual_smoking
+unusual_smoking_base
+unusual_smoking_drift
+unusual_sparkler_green //폭발 
+unusual_sparkler_orange
+unusual_spellbook_circle_green
+unusual_spellbook_circle_purple
+unusual_spellbook_fire_green
+unusual_spellbook_fire_purple
+unusual_spellbook_sparkles_green
+unusual_spellbook_sparkles_purple
+unusual_spotlights //위에 조명보다 낫다 이게 
+unusual_spotlights_cones01
+unusual_spotlights_cones02
+unusual_spotlights_cones03
+unusual_spotlights_core
+unusual_spotlights_sparkles //트레일 
+unusual_spray_confetti //트레일 종이가 올라오고 풍선도 올라옴..
+unusual_spray_confetti_balloons
+unusual_steaming
+unusual_steaming_base
+unusual_streaming_drift
+unusual_storm
+unusual_storm_blood //피구름 피내려 언유 안사용하는거래
+unusual_storm_blood_clouds //피 구름
+unusual_storm_blood_clouds_core
+unusual_storm_blood_rain
+unusual_storm_clouds
+unusual_storm_knives
+unusual_storm_knives_blood
+unusual_storm_knives_clouds
+unusual_storm_knives_core
+unusual_storm_knives_knives
+unusual_storm_lightning //노란 번개? 언유
+unusual_storm_rain
+unusual_storm_spooky
+unusual_storm_spooky_clouds01
+unusual_storm_spooky_clouds02
+unusual_storm_spooky_lightning
+unusual_storm_spooky_lightning2
+unusual_storm_spooky_lightning3
+unusual_storm_spooky_rain
+unusual_zap_green //초록 전기 언유
+unusual_zap_green_glow
+unusual_zap_yellow //노란
+unusual_zap_yellow_glow
+
+//ITEMS_DEMO.PCF
+
+loose_cannon_buildup_glow
+loose_cannon_buildup_glow1
+loose_cannon_buildup_glow2
+loose_cannon_buildup_smoke1
+loose_cannon_buildup_smoke2
+loose_cannon_buildup_smoke3
+loose_cannon_buildup_smoke3a
+loose_cannon_buildup_smoke3b
+loose_cannon_buildup_smoke3c
+loose_cannon_flame
+loose_cannon_smoke
+loose_cannon_smoke3a
+loose_cannon_sparks
+loose_cannon_sparks2
+loose_cannon_sparks_bang
+loose_cannon_sparks_flash
+
+//ITEMS_ENGINEER.PCF
+
+repair_claw_heal_blue
+repair_claw_heal_blue2
+repair_claw_heal_blue3
+repair_claw_heal_red
+repair_claw_heal_red2
+repair_claw_heal_red3
+
+//KILLSTREAK.PCF
+
+killstreak_eyes_base
+killstreak_eyes_bits01
+killstreak_eyes_bits02
+killstreak_eyes_bits03
+killstreak_eyes_bits04
+killstreak_eyes_level1
+killstreak_eyes_level2
+killstreak_eyes_level3
+killstreak_eyes_level4
+killstreak_eyes_rage01
+killstreak_eyes_rage02
+killstreak_eyes_rays
+killstreak_eyes_rays02
+killstreak_eyes_rings01
+killstreak_eyes_rings02
+killstreak_eyes_rings03
+killstreak_eyes_rings04
+killstreak_eyes_spikes01
+killstreak_eyes_trails01
+killstreak_eyes_trails02
+
+//LEVEL_FX.PCF
+
+hell_megaheal_blue_shower
+hell_megaheal_red_shower
+m_brazier_flame
+m_brazier_flame_smoke
+m_portcullis_slam
+m_torchflame
+m_torchflame_smoke
+mannworks_smoke
+nucleus_core_bits1
+nucleus_core_steady
+
+//MEDICGUN_ATTRIB.PCF
+
+medicgun_beam_attrib_drips
+medicgun_beam_attrib_healing
+medicgun_beam_attrib_muzzle //트레일
+medicgun_beam_attrib_overheal
+medicgun_beam_attrib_overheal_blue
+medicgun_beam_attrib_overheal_red
+medicgun_beam_attrib_shards
+overhealedplayer_blue_pluses
+overhealedplayer_red_pluses
+
+//MEDICGUN_BEAM.PCF
+
+dispenser_beam_blue_pluses
+dispenser_beam_blue_trail
+dispenser_beam_red_pluses
+dispenser_beam_red_trail
+dispenser_heal_blue
+dispenser_heal_red
+medicgun_beam_blue
+medicgun_beam_blue_drips
+medicgun_beam_blue_healing
+medicgun_beam_blue_invulnbright
+medicgun_beam_blue_invun
+medicgun_beam_blue_invunglow
+medicgun_beam_blue_marker
+medicgun_beam_blue_muzzle
+medicgun_beam_blue_pluses
+medicgun_beam_blue_targeted
+medicgun_beam_blue_trail
+medicgun_beam_blue_trail_stage1
+medicgun_beam_blue_trail_stage2
+medicgun_beam_blue_trail_stage3
+medicgun_beam_machinery
+medicgun_beam_machinery_drips
+medicgun_beam_machinery_healing
+medicgun_beam_machinery_muzzle
+medicgun_beam_machinery_pluses
+medicgun_beam_machinery_stage1
+medicgun_beam_machinery_stage2
+medicgun_beam_machinery_stage3
+medicgun_beam_red
+medicgun_beam_red_drips
+medicgun_beam_red_healing
+medicgun_beam_red_invulnbright
+medicgun_beam_red_invun
+medicgun_beam_red_invunglow
+medicgun_beam_red_marker
+medicgun_beam_red_muzzle
+medicgun_beam_red_pluses
+medicgun_beam_red_targeted
+medicgun_beam_red_trail
+medicgun_beam_red_trail_stage1
+medicgun_beam_red_trail_stage2
+medicgun_beam_red_trail_stage3
+medicgun_invulnstatus_fullcharge_blue
+medicgun_invulnstatus_fullcharge_red
+vaccinator_blue_beam1
+vaccinator_blue_beam1_icons
+vaccinator_blue_beam2
+vaccinator_blue_beam2_icons
+vaccinator_blue_beam3
+vaccinator_blue_beam3_icons
+vaccinator_blue_buff1
+vaccinator_blue_buff1_burst
+vaccinator_blue_buff2
+vaccinator_blue_buff2_burst
+vaccinator_blue_buff3
+vaccinator_blue_buff3_burst
+vaccinator_red_beam1
+vaccinator_red_beam1_icons
+vaccinator_red_beam2
+vaccinator_red_beam2_icons
+vaccinator_red_beam3
+vaccinator_red_beam3_icons
+vaccinator_red_buff1
+vaccinator_red_buff1_burst
+vaccinator_red_buff2
+vaccinator_red_buff2_burst
+vaccinator_red_buff3
+vaccinator_red_buff3_burst
+
+//MUZZLE_FLASH.PCF
+
+muzzle_bignasty
+muzzle_bignasty_flash
+muzzle_bignasty_sparks
+muzzle_grenadelauncher
+muzzle_grenadelauncher_core
+muzzle_grenadelauncher_embers
+muzzle_minigun
+muzzle_minigun_constant
+muzzle_minigun_constant_core
+muzzle_minigun_constant_flare
+muzzle_minigun_constant_smoke
+muzzle_minigun_constant_sparks
+muzzle_minigun_constant_starflash
+muzzle_minigun_core
+muzzle_minigun_flare
+muzzle_minigun_smoke
+muzzle_minigun_sparks
+muzzle_minigun_starflash01
+muzzle_pipelauncher
+muzzle_pistol
+muzzle_pistol_smoke
+muzzle_pistol_sparks
+muzzle_revolver
+muzzle_scattergun
+muzzle_scattergun_flash
+muzzle_sentry
+muzzle_sentry2
+muzzle_shotgun
+muzzle_shotgun_flash
+muzzle_shotgun_smoke
+muzzle_shotgun_sparks
+muzzle_smg
+muzzle_smg_sparks
+muzzle_sniperrifle
+muzzle_syringe
+   
+//MVM.PCF
+ 
+bot_death
+bot_death_bolts
+bot_death_sparks
+bot_eye_glow
+bot_eye_halo
+bot_impact_heavy
+bot_impact_heavy_elec
+bot_impact_heavy_elec_glow
+bot_impact_heavy_elec_zap
+bot_impact_heavy_extrabits
+bot_impact_heavy_sparks
+bot_impact_light
+bot_impact_light_elec
+bot_impact_light_elec_glow
+bot_impact_light_extrabits
+bot_impact_light_sparks
+bot_smoking
+flare_glow
+flare_sparks
+mini_firework_flare
+mini_fireworks
+mvm_cash_embers
+mvm_cash_embers_red
+mvm_cash_explosion
+mvm_cash_explosion_embers
+mvm_cash_explosion_smoke
+mvm_cash_smoke
+mvm_emergency_light_flash
+mvm_emergency_light_flash_yellow
+mvm_emergency_light_glow_yellow
+mvm_emergencylight_glow
+mvm_emergencylight_glowred
+mvm_hatch_destroy
+mvm_hatch_destroy_burn
+mvm_hatch_destroy_embers
+mvm_hatch_destroy_smoke
+mvm_hatch_destroy_smolder
+mvm_hatch_destroy_smolderembers
+mvm_item_godrays_glow
+mvm_item_godrays_glow2
+mvm_levelup1
+mvm_levelup2
+mvm_levelup3
+mvm_loot_coreflash
+mvm_loot_debris
+mvm_loot_dustup
+mvm_loot_dustup2
+mvm_loot_explosion
+mvm_loot_flash1
+mvm_loot_flashup
+mvm_loot_floatember
+mvm_loot_flyember
+mvm_loot_smoke
+mvm_path_marker
+mvm_pow_bam
+mvm_pow_banana
+mvm_pow_boing
+mvm_pow_boot
+mvm_pow_caber
+mvm_pow_crack
+mvm_pow_crash
+mvm_pow_crit
+mvm_pow_fireworks_flashup
+mvm_pow_fireworks_glow
+mvm_pow_fireworks_sparkler
+mvm_pow_fireworks_sparkler2
+mvm_pow_fireworks_sparkler3
+mvm_pow_fuse_movement
+mvm_pow_fuse_smoke
+mvm_pow_fuse_sparks
+mvm_pow_gold_seq
+mvm_pow_gold_seq_boot
+mvm_pow_gold_seq_crash
+mvm_pow_gold_seq_crit
+mvm_pow_gold_seq_crit2
+mvm_pow_gold_seq_firework
+mvm_pow_gold_seq_firework2
+mvm_pow_gold_seq_firework3
+mvm_pow_gold_seq_firework_mid
+mvm_pow_gold_seq_firework_trail
+mvm_pow_gold_seq_firework_trail2
+mvm_pow_gold_seq_firework_trail3
+mvm_pow_gold_seq_trail_mid
+mvm_pow_gold_seq_wood
+mvm_pow_gold_seq_wood2
+mvm_pow_gold_seq_wood3
+mvm_pow_gold_seq_wood3mid
+mvm_pow_loot
+mvm_pow_mmph
+mvm_pow_poof
+mvm_pow_pow
+mvm_pow_punch
+mvm_pow_smash
+mvm_pow_test
+mvm_shield_impact
+mvm_shield_impact_flashup
+mvm_soldier_shockwave
+mvm_soldier_shockwave2b
+mvm_soldier_shockwave2c
+mvm_soldier_shockwave2d
+mvm_soldier_shockwave_stun
+mvm_soldier_shockwave_stun2
+mvm_soldier_shockwave_stun3
+mvm_soldier_shockwave_stun4
+mvm_tank_destroy
+mvm_tank_destroy_bloom
+mvm_tank_destroy_burn
+mvm_tank_destroy_embers
+mvm_tank_destroy_smoke
+mvm_tank_destroy_smokefront
+mvm_tank_destroy_smolder
+mvm_tank_destroy_smolderembers
+mvm_wood_boards_destroy
+mvm_wood_boards_destroy_2BR
+mvm_wood_boards_destroy_MW
+mvm_wood_boards_splinters
+mvm_wood_boards_splinters_2BR
+mvm_wood_boards_splinters_MW
+smoke_marker
+ 
+//NAILTRAILS.PCF
+nailtrails_medic_blue
+nailtrails_medic_blue_crit //작은 막대기.. 파란색.. 머리
+nailtrails_medic_red
+nailtrails_medic_red_crit //레드
+
+//NEMESIS.PCF
+
+particle_nemesis_blue
+particle_nemesis_burst_blue
+particle_nemesis_burst_red
+particle_nemesis_red
+
+//NPC_FX PCF
+ 
+charge_up
+charge_up_glow
+charge_up_release
+npc_boss_bomb_alert
+npc_boss_bomb_alert_plate
+npc_boss_bomb_aoewarn
+npc_boss_bomb_shadow
+
+//PLAYER_RECENT_TELEPORT.PCF
+
+bot_drips_cheap
+bot_recent_teleport_blue //트레일로 좋음
+player_drips_blue
+player_dripsred
+player_glowblue
+player_glowred
+player_recent_teleport_blue
+player_recent_teleport_red
+player_sparkles_blue
+player_sparkles_red
+
+//RAIN_CUSTOM.PCF
+
+env_rain_128
+env_rain_128_streaks
+env_rain_256
+env_rain_256_mist
+env_rain_256_streaks
+env_rain_256x768
+env_rain_512
+env_rain_512_mist
+env_rain_512_streaks
+env_rain_512x1792
+env_rain_512x768
+test
+
+//ROCKETBACKBLAST.PCF
+
+rocketbackblast
+rocketbackblastsparks
+
+//ROCKETJUMPTRAIL.PCF
+
+deflect_fx
+deflect_temp
+doublejump_puff
+doublejump_puff_alt
+doublejump_smoke
+doublejump_smoke_alt
+doublejump_trail
+doublejump_trail_alt
+rocketjump_flame
+rocketjump_flash
+rocketjump_smoke
+
+//ROCKETTRAIL.PCF
+
+bullet_distortion_trail
+bullet_distortion_trail_tracer
+critical_rocket_blue
+critical_rocket_bluesparks
+critical_rocket_red
+critical_rocket_redsparks
+flaregun_crit_blue
+flaregun_crit_red
+flaregun_energyfield_blue
+flaregun_energyfield_red
+flaregun_sparkles_blue
+flaregun_sparkles_red
+flaregun_trail_blue
+flaregun_trail_crit_blue
+flaregun_trail_crit_red
+flaregun_trail_red
+halloween_rockettrail
+healshot_trail_blue
+healshot_trail_red
+pyrovision_flaregun_trail_blue
+pyrovision_flaregun_trail_crit_blue
+pyrovision_flaregun_trail_crit_red
+pyrovision_flaregun_trail_red
+pyrovision_rockettrail
+pyrovision_scorchshot_trail_blue
+pyrovision_scorchshot_trail_crit_blue
+pyrovision_scorchshot_trail_crit_red
+pyrovision_scorchshot_trail_red
+rockettrail
+rockettrail_! //로켓 트레일 그거임
+rockettrail_airstrike
+rockettrail_airstrike_line
+rockettrail_bubbles
+rockettrail_burst
+rockettrail_burst_airstrike
+rockettrail_fire
+rockettrail_fire_airstrike
+rockettrail_underwater
+rockettrail_waterbubbles
+scorchshot_trail_blue
+scorchshot_trail_crit_blue
+scorchshot_trail_crit_red
+scorchshot_trail_red
+sentry_rocket
+sentry_rocket_burst
+sentry_rocket_fire
+tranq_distortion_trail
+tranq_tracer_teamcolor_blue
+tranq_tracer_teamcolor_red
+
+//RPS.PCF
+
+particle_rps_burst_blue_left
+particle_rps_burst_blue_right
+particle_rps_burst_red_left
+particle_rps_burst_red_right
+particle_rps_paper_left
+particle_rps_paper_right
+particle_rps_paper_win_left
+particle_rps_paper_win_right
+particle_rps_rock_left
+particle_rps_rock_right
+particle_rps_rock_win_left
+particle_rps_rock_win_right
+particle_rps_scissors_left
+particle_rps_scissors_right
+particle_rps_scissors_win_left
+particle_rps_scissors_win_right
+rps_bg
+rps_bg_blue
+rps_bg_red
+rps_burst_blue
+rps_burst_red
+rps_burst_repeating_child
+rps_paper
+rps_paper_blue
+rps_paper_blue_win
+rps_paper_red
+rps_paper_red_win
+rps_rock
+rps_rock_blue
+rps_rock_blue_win
+rps_rock_red
+rps_rock_red_win
+rps_scissors
+rps_scissors_blue
+rps_scissors_blue_win
+rps_scissors_red
+rps_scissors_red_win
+rps_scout_win
+rps_win_flash
+rps_win_flash_bg
+rps_win_flash_blue
+rps_win_flash_core
+rps_win_flash_glow
+rps_win_flash_red
+rps_win_sparks
+
+//SCARY_GHOST.PCF
+
+ghost_appearation
+ghost_firepit //불
+ghost_firepit_firebits
+ghost_firepit_plate //오라 ㅋ
+ghost_firepit_wisps
+ghost_flash //x
+ghost_glow
+ghost_smoke //x
+ghost_sparkle 
+halloween_boss_axe_hit_sparks
+halloween_boss_axe_hit_world
+halloween_boss_death
+halloween_boss_death_bits
+halloween_boss_death_cloud
+halloween_boss_death_floatybits
+halloween_boss_eye_glow
+halloween_boss_foot_fire
+halloween_boss_foot_fire_customcolor
+halloween_boss_foot_impact
+halloween_boss_foot_impact_customcolor
+halloween_boss_injured
+halloween_boss_pumpkin_chunks
+halloween_boss_shape_glow
+halloween_boss_summon //기만병 나올때 스폰
+halloween_boss_trailing_goop
+halloween_ghost_flash
+halloween_ghost_smoke
+
+//SHELLEJECTION.PCF
+
+eject_minigunbrass
+
+//SMOKE_BLACKBILLOW.PCF
+
+smoke_blackbillow //검고 작은 구름이 있는데 트레일로 좋고 좋아 ㅋ
+smoke_blackbillow_dustbowl_skybox //위에 거와 다르게 간격이 넓어서 몇개 안나오는데 트레일로 좋을듯
+smoke_blackbillow_gravelpit_skybox //두개로 회색연기가 나옴 트레일
+smoke_blackbillow_hydro_skybox //하얀 연기로 간격이 넓음 트레일
+smoke_blackbillow_skybox //검은거...
+smoke_blackbillowflame //불인데 작아
+smoke_blackbillowflame2_gravelpit_skybox //다 같은거같아..
+smoke_blackbillowflame_dustbowl_skybox
+smoke_blackbillowflame_gravelpit_skybox
+smoke_blackbillowflame_skybox
+smoke_campfire //작은 불과 회색 구름이 합쳣네..
+smoke_campfireflame //조금 큰 불
+smoke_pipeline_001 //완전 진한 검은 불 그밑에꺼 귀차나 안해
+smoke_pipeline_fires
+smoke_pipeline_glowsmoke
+smoke_rocket_steam
+smoke_rocket_steam_dustbowl
+smoke_steam
+smoke_train //아주 큰연기가 올라감
+smoke_whitebillow
+smoke_whitebillow_skybox
+smoke_whitebillow_steamship_skybox
+smoke_wispy_black_2fort
+smoke_wispy_black_dustbowl
+smoke_wispy_black_granary
+smoke_wispy_black_gravelpit
+smoke_wispy_black_skybox
+
+//SMOKE_BLACKBILLOW_HOODOO.PCF
+
+smoke_wispy_black_hoodoo
+
+//SOLDIERBUFF.PCF
+
+soldierbuff_blue_buffed
+soldierbuff_blue_soldier
+soldierbuff_blue_spikes
+soldierbuff_blue_spiral
+soldierbuff_blue_volume
+soldierbuff_mvm
+soldierbuff_mvm_spiral
+soldierbuff_mvm_spiral_glow
+soldierbuff_mvm_volume
+soldierbuff_red_buffed
+soldierbuff_red_soldier
+soldierbuff_red_spikes
+soldierbuff_red_spirial
+soldierbuff_red_volume
+speed_boost_trail //길다란 하얀 줄?
+
+//SPARKS.PCF
+
+candle_light1
+candle_light2
+sapper_sentry1_fx //전기  그거
+sapper_sentry1_sparks1
+sapper_sentry1_sparks2 //새퍼 그 머리에 붙이면 좋을라나
+spark_electric01
+spark_electric01_embers
+
+//SPEECHBUBBLES.PCF
+
+speech_mediccall //메딕~~
+speech_mediccall_attention
+speech_mediccall_auto
+speech_medichurt
+speech_revivecall
+speech_revivecall_hard
+speech_revivecall_medium
+speech_taunt_all
+speech_taunt_blue
+speech_taunt_red
+speech_typing
+speech_voice
+   
+//STAMP_SPIN.PCF
+ 
+Stamp_spin
+
+//STICKYBOMB.PCF
+
+critical_grenade_blue
+critical_grenade_blue_extra
+critical_grenade_blue_glow
+critical_grenade_red
+critical_grenade_red_extra
+critical_grenade_red_glow
+critical_pipe_blue
+critical_pipe_red
+pipebomb_timer_blue
+pipebomb_timer_red
+pipebombtrail_blue
+pipebombtrail_red
+stickybomb_pulse_blue
+stickybomb_pulse_red
+stickybombtrail_blue
+stickybombtrail_red
+stunballtrail_blue
+stunballtrail_blue_crit
+stunballtrail_red
+stunballtrail_red_crit
+
+//STORMFRONT.PCF
+ 
+env_snow_stormfront_001
+env_snow_stormfront_mist
+
+//TAUNT_FX.PCF
+
+highfive_blue
+highfive_blue_border
+highfive_blue_flash
+highfive_blue_old
+highfive_flash
+highfive_red
+highfive_red_border
+highfive_red_flash
+highfive_red_old
+tada_core
+tada_default //이게 낫다 저 빛이랑 눈보단
+tada_glow
+tada_glow_core
+tada_glow_largecones
+tada_glow_smallcones
+tada_sparklebits //빛
+tada_sparkleburst //이거 눈 그거 아님? h 어.. 트레일
+taunt_conga_confetti01
+taunt_conga_confetti02
+taunt_conga_fireworks01
+taunt_conga_fireworks02
+taunt_conga_fireworks_flash
+taunt_conga_string01 //이거 줄임 나쁘지 않음 발사체에 좋음 로켓
+taunt_conga_string02 //보라
+taunt_demo_beer_bubbles
+taunt_demo_beer_spray
+taunt_demo_beer_spray2
+taunt_demo_beer_spray3
+taunt_demo_flip_bottle
+taunt_demo_flip_bottle_trail
+taunt_demo_nuke_brew
+taunt_demo_nuke_explosion
+taunt_demo_nuke_explosion_flash
+taunt_demo_nuke_explosion_streaks
+taunt_demo_nuke_lighter
+taunt_demo_nuke_powder
+taunt_demo_nuke_shroom1_base
+taunt_demo_nuke_shroom2_collumn
+taunt_demo_nuke_shroom3_ring
+taunt_demo_nuke_shroom4_base
+taunt_demo_nuke_shroom_glow
+taunt_demo_nuke_shroom_ring
+taunt_demo_nuke_shroomcloud //데모 도발그.. 술 마시고 폭발
+taunt_demo_nuke_smokelinger01
+taunt_demo_nuke_smokelinger02
+taunt_demo_nuke_vapors
+taunt_engineer_sparks
+taunt_flip_land
+taunt_flip_land_blue
+taunt_flip_land_dust
+taunt_flip_land_dust2
+taunt_flip_land_red
+taunt_flip_land_ring
+taunt_flip_land_stars_blue //파랑
+taunt_flip_land_stars_red //레드
+taunt_flip_trail
+taunt_headbutt_impact
+taunt_headbutt_impact_blood
+taunt_headbutt_impact_blood2
+taunt_headbutt_impact_blood3
+taunt_headbutt_impact_refract
+taunt_headbutt_impact_ring
+taunt_headbutt_impact_stars //하얀 중간별 트레일 머리
+taunt_heavy_flip_land
+taunt_heavy_flip_land_debris
+taunt_heavy_flip_land_dust
+taunt_heavy_flip_trail
+taunt_pyro_balloon
+taunt_pyro_balloon_explosion
+taunt_pyro_balloon_explosion_flame
+taunt_pyro_balloon_explosion_smoke
+taunt_pyro_balloon_explosion_stars
+taunt_pyro_balloon_explosion_vision
+taunt_pyro_balloon_glow
+taunt_pyro_balloon_rainbow //3초 무지개 내가 원하는 무지개임
+taunt_pyro_balloon_starttrail
+taunt_pyro_balloon_vision 
+taunt_pyro_flip_land
+taunt_pyro_flip_land_rof_expand //파이로 도발 무지개 마지막 불나올때 1초 나옴 트레일
+taunt_pyro_flip_smoke
+taunt_pyro_flip_trail //3초 무지개 트레일
+taunt_pyro_flip_trail_backup
+taunt_pyro_headbutt_flame
+taunt_pyro_lighter
+taunt_scout_bat_trail
+taunt_soldier_coffee_beans
+taunt_soldier_coffee_beans_fall
+taunt_soldier_coffee_beans_ground
+taunt_soldier_coffee_beans_ground_backup
+taunt_soldier_coffee_cup
+taunt_soldier_coffee_splash
+taunt_soldier_coffee_steam
+taunt_soldier_coffee_warp
+taunt_spy_cash
+taunt_spy_flip_dirt
+taunt_spy_flip_dirtbits
+taunt_spy_headbutt_cig_burn
+taunt_spy_headbutt_cig_smoke //그.. 머냐 이거 솔저 수염 담배 그거같은데 언유
+utaunt_beams_glow_yellow
+utaunt_beams_sparks_yellow //트레일 머리
+utaunt_beams_yellow //썬빔 도발 언유
+utaunt_cash_base[/b][/color]
+utaunt_cash_confetti //돈언유 올라옴
+utaunt_cash_trail2
+utaunt_disco_ball // 그 디스코 언유 공만 나옴 머리에 끼면 딱임
+utaunt_disco_beams3
+utaunt_disco_beams_dir //그냥 디스코 공없이 빛만나옴
+utaunt_disco_dots
+utaunt_disco_party //언유 디스코 공
+utaunt_disco_stars //하얀색 빛남 트레일 머리?
+utaunt_firework_blue_launcher
+utaunt_firework_blue_launcher2
+utaunt_firework_blue_launcher3
+utaunt_firework_blue_shcokwave
+utaunt_firework_blue_shockwave2
+utaunt_firework_blue_shockwave3
+utaunt_firework_blue_sparkler
+utaunt_firework_blue_sparkler2
+utaunt_firework_blue_sparkler3
+utaunt_firework_blue_stars
+utaunt_firework_blue_stars2
+utaunt_firework_blue_stars3
+utaunt_firework_blue_trail //트레일 파란거 
+utaunt_firework_blue_trail2 //안나옴
+utaunt_firework_launcher_glow_1000ms
+utaunt_firework_launcher_glow_650ms
+utaunt_firework_launcher_glow_850ms
+utaunt_firework_launcher_ground
+utaunt_firework_launcher_sparks_1000ms
+utaunt_firework_launcher_sparks_650ms
+utaunt_firework_launcher_sparks_850ms
+utaunt_firework_launcher_trail_1000ms
+utaunt_firework_launcher_trail_650ms
+utaunt_firework_launcher_trail_850ms
+utaunt_firework_red_launcher
+utaunt_firework_red_launcher2
+utaunt_firework_red_launcher3
+utaunt_firework_red_shockwave
+utaunt_firework_red_shockwave2
+utaunt_firework_red_shockwave3
+utaunt_firework_red_sparkler
+utaunt_firework_red_sparkler3
+utaunt_firework_red_stars
+utaunt_firework_red_stars2
+utaunt_firework_red_stars3
+utaunt_firework_red_trail
+utaunt_firework_red_trail2
+utaunt_firework_red_trail3
+utaunt_firework_teamcolor_blue
+utaunt_firework_teamcolor_red
+utaunt_hearts_beams //음.. 트레일? 하트 로켓?
+utaunt_hearts_bubbling //하트가 올라감 트레일
+utaunt_hearts_bubbling_dots
+utaunt_hearts_bubbling_glow
+utaunt_hearts_glow_parent //하트 도발 언유
+utaunt_lightning_bolt //번개내림 언유 폭발용 
+utaunt_lightning_bolt2
+utaunt_lightning_fingers
+utaunt_lightning_flash
+utaunt_lightning_flash2
+utaunt_lightning_hot_ground
+utaunt_lightning_hot_ground2
+utaunt_lightning_impact_electric
+utaunt_lightning_impact_shockwave
+utaunt_lightning_impact_sparks
+utaunt_lightning_parent //폭발하자 이거 도발 언유지만.
+utaunt_meteor_drips
+utaunt_meteor_licks
+utaunt_meteor_parent //세개 합쳐 걍
+utaunt_meteor_rotate01
+utaunt_meteor_rotate02
+utaunt_meteor_small
+utaunt_meteor_small_glow
+utaunt_meteor_trail
+utaunt_tornado_cow //회전하는 소? ㅋㅋㅋㅋ언유
+utaunt_tornado_debris
+utaunt_tornado_funnel2
+utaunt_tornado_funnel3_black
+utaunt_tornado_funnel3_white
+utaunt_tornado_funnel_black// 검은색
+utaunt_tornado_funnel_white //어.. 폭풍..그니까 토네이도만 나옴
+utaunt_tornado_tornado_ground
+utaunt_tornado_oscilate_black //x
+utaunt_tornado_oscilate_white //화이트!
+utaunt_tornado_parent_black
+utaunt_tornado_twist_black
+utaunt_tornado_twist_white
+
+//TELEPORT_STATUS.PCF
+
+teleporter_arms_circle_blue
+teleporter_arms_circle_blue_blink
+teleporter_arms_circle_red
+teleporter_arms_circle_red_blink
+teleporter_blue_charged
+teleporter_blue_charged_hotplate
+teleporter_blue_charged_level1
+teleporter_blue_charged_level2
+teleporter_blue_charged_level3
+teleporter_blue_charged_wisps
+teleporter_blue_entrance
+teleporter_blue_entrance_disc
+teleporter_blue_entrance_level1
+teleporter_blue_entrance_level2
+teleporter_blue_entrance_level3
+teleporter_blue_exit
+teleporter_blue_exit_level1
+teleporter_blue_exit_level2
+teleporter_blue_exit_level3
+teleporter_blue_floorglow
+teleporter_blue_wisps_level2
+teleporter_blue_wisps_level3
+teleporter_red_charged
+teleporter_red_charged_hotplate
+teleporter_red_charged_level1
+teleporter_red_charged_level2
+teleporter_red_charged_level3
+teleporter_red_charged_wisps
+teleporter_red_entrance
+teleporter_red_entrance_disc
+teleporter_red_entrance_level1
+teleporter_red_entrance_level2
+teleporter_red_entrance_level3
+teleporter_red_exit
+teleporter_red_exit_level1
+teleporter_red_exit_level2
+teleporter_red_exit_level3
+teleporter_red_floorglow
+teleporter_red_wisps_level2
+teleporter_red_wisps_level3
+
+//TELEPORTED_FX.PCF
+
+teleported_blue
+teleported_flash
+teleported_mvm_bot
+teleported_mvm_bot_bits
+teleported_mvm_bot_clouds1
+teleported_mvm_bot_clouds2
+teleported_mvm_bot_core
+teleported_mvm_bot_dirt
+teleported_mvm_bot_dust
+teleported_mvm_bot_flash
+teleported_mvm_bot_glowdust
+teleported_mvm_bot_groundflash
+teleported_mvm_bot_outerbeam
+teleported_mvm_bot_rings
+teleported_mvm_bot_rings2
+teleported_mvm_bot_rings3
+teleported_mvm_bot_skyflash
+teleported_mvm_bot_skyglow
+teleported_mvm_bot_trails
+teleported_red
+teleportedin_blue
+teleportedin_red
+teleporter_mvm_bot_persist
+teleporter_mvm_bot_persist_bits1
+teleporter_mvm_bot_persist_clouds1
+teleporter_mvm_bot_persist_clouds2
+teleporter_mvm_bot_persist_core
+teleporter_mvm_bot_persist_dirt
+teleporter_mvm_bot_persist_ring01
+teleporter_mvm_bot_persist_skyglow
+teleporter_mvm_bot_ring
+
+//TRAINING.PCF
+
+coin_blue
+coin_large_blue
+finishline_confetti
+target_break
+target_break_child_puff
+target_break_initial_dust
+tr_bday_balloon01
+tr_bday_balloon02
+tr_bday_confetti_colors
+tr_waterfall_bottomsplash //눈
+waterfall_bottom
+
+//URBAN_FX.PCF
+smoke_urbantower_skybox
+
+//WATER.PCF
+
+env_rain_001
+env_rain_001_mist
+env_rain_001_mist_256
+env_rain_001_streaks
+env_rain_001_streaks_256
+env_rain_002_256
+env_rain_gutterdrip
+env_rain_guttersplash
+env_rain_ripples
+env_rain_splashring
+env_rain_splashripple
+env_snow_light_001
+snow_steppuff01
+snow_steppuff_mist
+water_bulletsplash01
+water_bulletsplash01_cheap
+water_bulletsplash01_minigun
+water_burning_steam
+water_objectwake
+water_playerdive
+water_playerdive_bubbles
+water_playeremerge
+water_playerwake_moving
+water_playerwake_static
+water_splash01
+water_splash01_bullet //재밌는거같고? 2d그림
+water_splash01_cluster
+water_splash01_column
+water_splash01_droplets //물 같은게 위에서 올라왓다 내려오는데 폭발용?
+water_splash01_playerripple //좀 더 큰 오라
+water_splash01_ripple //오라같은 하얀 연기? 트레일
+waterfall_bottommist
+waterfall_bottomsplash
+waterfall_bottomwaves
+waterfall_mist
+waterfall_rocksplash
+waterfall_rocksplash_2
+waterfall_sides
+   
+//XMS.PCF
+
+taunt_pyro_dosido
+taunt_pyro_dosido_embers
+taunt_pyro_dosido_flame
+taunt_pyro_dosido_glow
+taunt_pyro_dosido_smoke
+taunt_pyro_dosido_smoke_front
+taunt_pyro_dosido_smoke_linger
+taunt_pyro_rps_paper
+taunt_pyro_rps_rock
+taunt_pyro_rps_scissors
+xms_icicle_idle
+xms_icicle_impact //폭발
+xms_icicle_impact_dryice
+xms_icicle_melt
+xms_ornament_glitter //반짝반짝 눈내리는듯?
+xms_ornament_smash_blue//파랑 눈 폭발
+xms_ornament_smash_red//레드
+xms_snowburst //눈 그.. 육각형 모양과 동그란눈 별같은 눈 합친거
+xms_snowburst_child01
+xms_snowburst_child02
+xms_snowburst_child03
+
+
+
+
+
+//2016.01.01
+unusual_eldritch_flames_purple //귀신 언유? 머지?
+raygun_projectile_blue_crit_glow //트레일 빛남
+raygun_projectile_blue_crit //트레일 
+raygun_projectile_blue_rings //트레일
+raygun_projectile_blue_trail // 트레일
+
+charge_up //폭발용 트레일???????????????
+charge_up_glow //폭발용
+npc_boss_bomb_alert //하얀 원이 바닥에 그려짐
+npc_boss_bomb_alert_plate //하얀 원이 바닥에 그려지며 용수철같이 몸을 둘러쌈 반까지
+npc_boss_bomb_aoewarn //빨간색 큰 원의 트레일
+npc_boss_bomb_shadow //하얀 원이 나왔다가 사라짐 
+
+coin_blue //트레일
+coin_large_blue //트레일
+
+powerup_supernova_explode_red_spikes // 폭발용
+powerup_supernova_explode_red //폭발용
+powerup_supernova_explode_blue //폭발용
+powerup_supernova_explode_blue_spikes //폭발용
+powerup_king_red //트레일
+
+eyeboss_beam_angry //트레일
+
+
+//2016 03 24 여기durl
+
+!cvar sm_projectile_boom "eotl_pyro_pool_explosion"
+!cvar sm_projectile_boom "powerup_supernova_explode_red_spikes"
+!cvar sm_projectile_boom "powerup_supernova_explode_red"
+!cvar sm_projectile_boom "powerup_supernova_explode_blue_spikes"
+!cvar sm_projectile_boom "charge_up"
+!cvar sm_projectile_boom "charge_up_glow"
+!cvar sm_projectile_boom "npc_boss_bomb_alert"
+!cvar sm_projectile_boom "unusual_eldritch_flames_purple"
+!cvar sm_projectile_boom "skull_island_embers"
+!cvar sm_projectile_boom "underworld_gate_zap"
+!cvar sm_projectile_boom "taunt_demo_nuke_shroomcloud"
+!cvar sm_projectile_boom "merasmus_shoot"
+!cvar sm_projectile_boom "hwn_cart_cap_neutral"
+!cvar sm_projectile_boom "taunt_pyro_dosido"
+!cvar sm_projectile_boom "water_bulletsplash01"
+!cvar sm_projectile_boom "waterfall_bottommist"
+!cvar sm_projectile_boom "waterfall_mist"
+!cvar sm_projectile_boom "env_rain_001"
+!cvar sm_projectile_boom "teleporter_mvm_bot_persist"
+!cvar sm_projectile_boom "teleported_mvm_bot"
+!cvar sm_projectile_boom "target_break"
+!cvar sm_projectile_boom "tr_bday_balloon01"
+!cvar sm_projectile_boom "finishline_confetti"
+!cvar sm_projectile_boom "cauldron_flamethrower"
+!cvar sm_projectile_boom "spell_cast_wheel_blue"
+!cvar sm_projectile_boom "merasmus_ambient_glow"
+!cvar sm_projectile_boom "pyro_blast"
+!cvar sm_projectile_boom "flamethrower_rainbow_bubbles02"
+!cvar sm_projectile_boom "cart_flashinglight" //벼르자리
+!cvar sm_projectile_boom "critgun_weaponmodel_blu" //벼르자리
+!cvar sm_projectile_boom "bday_1balloon"
+!cvar sm_projectile_boom "base_destroyed_smoke_doomsday" //핵
+!cvar sm_projectile_boom "dooms_nuke_ring" //해액
+!cvar sm_projectile_boom "flash_doomsday" //섬광
+!cvar sm_projectile_boom "asplode_hoodoo"
+!cvar sm_projectile_boom "cinefx_goldrush"
+!cvar sm_projectile_boom "tk_rockettrail_airstrike_line"
+
+pyrotaunt_rainbow_norainbow
+
+
+
+
+
+unusual_universe_stars //빛남
+unusual_universe // 행성
+unusual_star_green_parent
+unusual_star_purple_parent
+unusual_nether_pink
